@@ -1,11 +1,97 @@
-@import "tailwindcss";
+/* The portal's own rules. There are almost none, and that is the point.
+ *
+ * Navigator UX ships the tokens, the typeface, and every component rule, so
+ * this file exists for what is genuinely local to this bundle. Anything added
+ * here reads a `--nav-*` token rather than a literal color — a portal that
+ * hardcodes one is a portal that stops matching the day the brand moves.
+ *
+ * Navigator serves this bundle under a CSP of `style-src 'self' 'unsafe-inline'`
+ * and `font-src 'self' data:`. The library's CSS and its two woff2 files are
+ * compiled into hashed assets under this matter's own mount by Vite, so nothing
+ * here reaches off-origin — which is what `src/test/bundle.test.ts` asserts
+ * against the built output rather than against this file.
+ */
 
-/* Navigator serves this bundle under a CSP of `style-src 'self' 'unsafe-inline'`
-   and `font-src 'self' data:`. Tailwind is compiled into a hashed CSS asset by
-   `@tailwindcss/vite`, so nothing here reaches off-origin — which is what
-   `src/test/bundle.test.ts` asserts against the built output rather than
-   against this file. */
+/* Upstream workaround, and the only rule in this file.
+ *
+ * Navigator UX v0.7.0 draws the `ActionList` step number as
+ * `color: var(--nav-color-on-primary)` — white — on
+ * `background: var(--nav-color-surface)`, which is also white in the light
+ * scheme, so the numbers are invisible in exactly one scheme. The ink token
+ * says what the marker was meant to be: a filled chip. Filling it is what this
+ * rule does, in tokens, so it stays correct under a brand override and can be
+ * deleted the day the library ships the fix. */
+.action-list li::before {
+  background: var(--nav-color-primary);
+}
 
-:root {
-  color-scheme: light dark;
+/* The research tab's two local shapes.
+ *
+ * Both are layout, and every color below is a `--nav-*` token, so a brand
+ * override moves them with everything else. The library has no component for
+ * "a case citation above a one-line holding" or for "a whole court opinion in a
+ * box", and inventing one here would be inventing it in the wrong repository. */
+
+/* The summary line of each authority: caption, then citation, then holding. */
+.authority {
+  display: grid;
+  gap: 0.15rem;
+}
+
+.authority__case {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 700;
+}
+
+.authority__cite {
+  /* The library's `summary` is bold; the citation and the holding are not the
+     name of the thing, so they step back down to the body weight. */
+  font-weight: 400;
+  color: var(--nav-color-text-muted);
+  font-family: var(--nav-font-mono);
+  font-size: 0.8rem;
+}
+
+.authority__holding {
+  font-weight: 400;
+  color: var(--nav-color-text-muted);
+  font-size: 0.85rem;
+}
+
+/* A full opinion is thousands of words. It scrolls inside its own box so that
+   opening one does not push the rest of the page over the horizon, and the box
+   is bordered so the reader can see where the court's text starts and stops. */
+.opinion {
+  max-height: 32rem;
+  overflow-y: auto;
+  padding: 0 1rem;
+  border: 1px solid var(--nav-color-border);
+  border-radius: var(--nav-radius-sm, 0.25rem);
+  background: var(--nav-color-surface);
+}
+
+.opinion table {
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+.opinion td {
+  padding: 0.2rem 0.75rem 0.2rem 0;
+  border-bottom: 1px solid var(--nav-color-border);
+  font-size: 0.85rem;
+  vertical-align: top;
+}
+
+.opinion blockquote {
+  margin: 0 0 1rem;
+  padding-left: 0.9rem;
+  border-left: 3px solid var(--nav-color-border);
+  color: var(--nav-color-text-muted);
+  font-size: 0.85rem;
+}
+
+.opinion p {
+  max-width: 68ch;
 }

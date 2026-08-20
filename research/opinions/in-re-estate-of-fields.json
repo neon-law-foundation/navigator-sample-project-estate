@@ -1,0 +1,273 @@
+{
+  "id": 786400,
+  "name": "In the Matter of the Estate of B. F. Fields, Deceased",
+  "name_abbreviation": "In re the Estate of Fields",
+  "decision_date": "1927-01-06",
+  "docket_number": "No. 20077",
+  "first_page": "526",
+  "last_page": "530",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 Wash. 526"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "252 Pac. 534",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "50 Mont. 454",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        8587891
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/50/0454-01"
+      ]
+    },
+    {
+      "cite": "26 Pac. 373",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Cal. 616",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1968021
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/88/0616-01"
+      ]
+    },
+    {
+      "cite": "21 Pac. 435",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Cal. 586",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        4373215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/78/0586-01"
+      ]
+    },
+    {
+      "cite": "176 Fed. 641",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6750337
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/176/0641-01"
+      ]
+    },
+    {
+      "cite": "112 Ore. 621",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        4946401
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/112/0621-01"
+      ]
+    },
+    {
+      "cite": "89 Pac. 477",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Wash. 185",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1356874
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/46/0185-01"
+      ]
+    },
+    {
+      "cite": "39 Pac. 249",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Wash. 586",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        2437996
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/10/0586-01"
+      ]
+    },
+    {
+      "cite": "233 Pac. 29",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wash. 649",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        772281
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/132/0649-01"
+      ]
+    },
+    {
+      "cite": "233 Pac. 293",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wash. 678",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        772300
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/132/0678-01"
+      ]
+    },
+    {
+      "cite": "165 Pac. 873",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Wash. 18",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        570525
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/97/0018-01"
+      ]
+    },
+    {
+      "cite": "135 Pac. 658",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Wash. 641",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        622570
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/75/0641-01"
+      ]
+    },
+    {
+      "cite": "102 Pac. 773",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Wash. 661",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        542421
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/53/0661-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 456,
+    "char_count": 7972,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 1.2438028576662846e-07,
+      "percentile": 0.608550923239154
+    },
+    "sha256": "5ec96fe0c800e6f3d88da2962c5db05852691ce26c32626624818751e75ed726",
+    "simhash": "1:cda5df0dcb0e37c9",
+    "word_count": 1367
+  },
+  "last_updated": "2024-02-27T22:25:50.463443+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Estate of B. F. Fields, Deceased."
+    ],
+    "opinions": [
+      {
+        "text": "Holcomb, J.\nThis appeal is before us without any statement of facts or bill of exceptions.\n\u2022 From the probate records brought up iu the transcript, it appears that B. F. Fields died in Asotin county on or about July 9,1923, leaving surviving him his widow, Hester A. Fields, and also left real and personal property. He had previously been married, his former wife, Mary Fields, having died and.her estate having been probated as-community property. Fields had married the surviving widow August 24, 1913. No issue, nor father nor mother, nor brothers nor sisters, survived him, but a number Of nieces and nephews, children- of deceased brothers and sisters, survived bim, all his brothers and sisters having died prior to his death. -\n\u2022 On April -26,1920, Field had entered into a contract for the'sale of certain of his separate real estate in Asotin county, consisting of four hundred and -eighty acres, and a contract of sale, with a deed and. abstract of title were deposited in escrow in a bank in that county. From the petition for letters -of administration, it appears that the contract ran to' one J.- H. Bethel, describing the real estate involved therein, referring to the escrow, and describing the property as real estate. In the final account signed February 4, 1924, and approved February 27,1926, it .was reported that the property contracted to be sold-, was'in fact personal property, and that one. lot in the town of Asotin was real estate. It was also stated that five payments had been made upon the contract of sale from Bethel to decedent. The contract itself is not before us, nor was it before the lower court at -the- time of its final decree. Neither is a purported assignment of the contract properly before us, after the decree of distribution, for no statement of facts is brought here, and it should have been made a part of -a statement of facts and certified to be properly in the record before us.-\nFrom the final account, it appears that there remained due and unpaid on the Bethel contract the sum of eight thousand dollars, at the date of the final account, February 4, 1924.\nAppellants here are nieces and nephews of deceased, being children of brothers and sisters of deceased, who died prior to his death.\n\" On appeal they contend that the real estate involved in the Bethel contract should have been determined to be real estate belonging to the estate, and it and the other real estate, consisting of the lot in Asotin, should be distributed in equal shares to the widow and to them.\nAppellants rely chiefly upon our decisions to the effect that the purchaser of real estate under an ex-ecutory contract acquires no title to the real estate, and that no title passes until the vendee has so performed the conditions of the contract as to entitle him to a deed. Younkman v. Hillman, 53 Wash. 661, 102 Pac. 773; Tieton Hotel Co. v. Manheim, 75 Wash. 641, 135 Pac. 658; Smith v. Barber, 97 Wash. 18, 165 Pac. 873; In re Kuhn\u2019s Estate, 132 Wash. 678, 233 Pac. 293; Ashford v. Reese, 132 Wash. 649, 233 Pac. 29.\nWhile it is true that no title passed to the vendee under the executory contract from Fields to Bethel, nevertheless, for the purpose of administration it should be treated as personal property rather than real property. Hyde v. Heller, 10 Wash. 586, 39 Pac. 249; Griggs Land Co. v. Smith, 46 Wash. 185, 89 Pac. 477; In re Denning\u2019s Estate, 112 Ore. 621, 229 Pac. 912.\nBut, even considering all the estate in controversy as real estate, appellants have no rights as heirs under our statutes.\nSuccession of estates is entirely a matter of statutory regulation. Our statute on this subject, Rem. Comp. Stat., \u00a7 1341 [P. C. \u00a7 9847], reads as follows:\n\u201c2. If the decedent leaves no issue, the estate goes in equal shares to the surviving husband or wife, and to the decedent\u2019s father and mother, if both survive. If there be no father nor mother, then one-half goes in equal shares to the brothers and sisters of the decedent, and to the children of any deceased brothers or sisters, by right of representation. If the decedent leaves no issue, nor husband nor wife, the estate must go to his father and mother;\n\u201c3. If there be no issue, nor husband nor wife, nor father and mother, nor either, then in equal shares to the brothers and sisters of the decedent, and to the children of any deceased brother or sister, by right of representation;\n\u201c4. If the decedent leaves a surviving husband, or wife and no issue, and no father nor mother, nor brother nor sister, the whole estate goes to the surviving husband or wife;\u201d\nDecedent having left a surviving wife, subdivision 3 can have no application.\nAppellants claim that under subdivision 4, it is certain that the intention of the statute was to give them the right of inheritance by representation from the deceased brothers and sisters', regardless of whether there was any surviving brother or sister at the time of the death of decedent.\nOur statute above quoted seems to have been taken bodily from the statute of California, Deering\u2019s Civil Code of California, 1903, \u00a7 1386, subdivisions 2 and 4. The subdivisions appear in the same order in the statute of California as in our own.\nOur statutes above quoted were before the late Judge Whitson in Sweetland v. Transberg, 176 Fed. 641, where he gave the latter subdivision (4) controlling effect in construing the two provisions and held that there could be no doubt that heirs of the deceased brother or sister, there being no surviving brother or sister, were not entitled to inherit by right of representation, and that the whole estate passed to the surviving widow. It is there held that the second clause of subdivision 2, only applied to cases where there is a surviving brother or sister and children of a deceased brother or sister; and where there is neither brother nor sister surviving, the case comes within the \u2022 terms of subdivision 4, and that section governs to the exclusion of children of a deceased brother or sister. The same construction has.been given the same statutory provision in California in In re Ingram\u2019s Estate, 78 Cal. 586, 21 Pac. 435; In re Estate of Carmody, 88 Cal. 616, 26 Pac. 373.\nThe same construction was given identical statutes, arranged in the sam\u00e9 order in the mode of enactment in Montana, in Brundy v. Canby, 50 Mont. 454, 148 Pac. 315.\nThe Federal court decision, supra, and the Montana decision, supra, are both well-reasoned and convincing. We concur with the authorities above cited and adopt the rule of construction followed in them.\nFor the foregoing reasons the judgment of the trial court is affirmed. -\n' Tolman, C. J.,Main, Mitchell, and Fullerton, JJ., concur.",
+        "type": "majority",
+        "author": "Holcomb, J."
+      }
+    ],
+    "attorneys": [
+      "R. M. Sturdevant, for appellant.",
+      "Severin Iverson, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 20077.\nDepartment One.\nJanuary 6, 1927.]\nIn the Matter of the Estate of B. F. Fields, Deceased.\nExecutors and Administrators (49)\u2014Real Property and Interests Therein\u2014Contracts of Decedent. Real estate held by the deceased under an executory contract to purchase the same should be treated for the purposes of administration as personal property.\nDescent and Distribution (5)\u2014Descendants \u2014 Children of Deceased-Brothers and Sisters. Where there is no surviving sister or brother of the deceased, children of a deceased brother or sister do not take any interest by right of representation \u2022 under Rem. Comp. Stat., \u00a71341, 'which provides, subdiv. (2), that, if there be no father or mother, one half goes in equal shares to brothers and sisters of the decedent and to the children of any deceased brothers or sisters by right of representation, and subdiv. (4), that, if the decedent leaves a surviving husband or wife and no father nor mother nor brother, nor sister, the whole estate goes to the surviving husband or wife.\n. Appeal from a judgment of the superior court for Asotin county, Kuykendall, J., entered February 27, 1926, in probate, upon findings in favor of the surviving widow.\nAffirmed.\nR. M. Sturdevant, for appellant.\nSeverin Iverson, for respondent.\nReported in 252 Pac. 534."
+  },
+  "file_name": "0526-01",
+  "first_page_order": 562,
+  "last_page_order": 566
+}

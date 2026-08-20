@@ -1,7 +1,8 @@
 # Navigator Sample Project — Estate
 
 A **project application** for [Navigator](https://github.com/neon-law-foundation/navigator): the client portal for the
-fixture matter *Estate of Cornelius Montgomery*, built with Vite, React 19, and Tailwind CSS.
+fixture matter *Estate of Cornelius Montgomery*, built with Vite, React 19, and
+[Navigator UX](https://github.com/neon-law-foundation/navigator-ux).
 
 It exists so that "attach a React application to a matter" has a worked example a contributor can read, clone, and copy
 — and so Navigator's own local development loop has something real to build and serve. It is one of three, each a
@@ -52,8 +53,9 @@ That has three consequences for this app:
 The serve CSP is `default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:;
 font-src 'self' data:; connect-src 'self'`. Nothing in this bundle is inline or off-origin, which is why it needs no
 exception — and `src/test/bundle.test.ts` asserts that against the built output rather than trusting it. In particular
-there is **no `cdn.tailwindcss.com`**: Tailwind is compiled into the hashed CSS asset by `@tailwindcss/vite`, because a
-CDN script tag works on the dev server and is blocked in production.
+there is no CDN tag for a stylesheet or a webfont: Navigator UX's stylesheet and its two self-hosted woff2 files are
+compiled into hashed assets under this matter's own mount, because a CDN tag works on the dev server and is blocked in
+production.
 
 ## The one contract Navigator depends on
 

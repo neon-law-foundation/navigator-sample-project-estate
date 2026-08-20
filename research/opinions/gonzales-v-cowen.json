@@ -1,0 +1,373 @@
+{
+  "id": 490250,
+  "name": "Trina Gonzales, Individually and as Personal Representative, Respondent, v. Carlos Cowen, Appellant",
+  "name_abbreviation": "Gonzales v. Cowen",
+  "decision_date": "1994-11-29",
+  "docket_number": "No. 13161-1-III",
+  "first_page": "277",
+  "last_page": "283",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "76 Wash. App. 277"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash. Ct. App.",
+    "id": 8985,
+    "name": "Washington Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "326 N.W.2d 709",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10677487
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/326/0709-01"
+      ]
+    },
+    {
+      "cite": "689 P.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10422749
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/689/0726-01"
+      ]
+    },
+    {
+      "cite": "138 Cal. Rptr. 32",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Cal. App. 3d 923",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "808 P.2d 781",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "it runs counter to legislative intent to hold that what is permitted in one statute can be said to violate another statute"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Wn. App. 64",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1729361
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "74",
+          "parenthetical": "it runs counter to legislative intent to hold that what is permitted in one statute can be said to violate another statute"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/61/0064-01"
+      ]
+    },
+    {
+      "cite": "99 Wn.2d 1016",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "658 P.2d 8",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Wn. App. 629",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1819304
+      ],
+      "pin_cites": [
+        {
+          "page": "633-34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/33/0629-01"
+      ]
+    },
+    {
+      "cite": "647 P.2d 1030",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "intention is to protect child's right to support and determination of parentage"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Wn.2d 614",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1154952
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "617",
+          "parenthetical": "intention is to protect child's right to support and determination of parentage"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/97/0614-01"
+      ]
+    },
+    {
+      "cite": "12 Gonz. L. Rev. 455",
+      "category": "journals:journal",
+      "reporter": "Gonz. L. Rev.",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "853 P.2d 444",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn.2d 655",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1365803
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "663"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/121/0655-01"
+      ]
+    },
+    {
+      "cite": "558 P.2d 155",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Wn.2d 706",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113787
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "716"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/87/0706-01"
+      ]
+    },
+    {
+      "cite": "103 Wn.2d 1042",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "698 P.2d 94",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Wn. App. 184",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1796245
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/40/0184-01"
+      ]
+    },
+    {
+      "cite": "112 S. Ct. 1215",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 L. Ed. 2d 453",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "502 U.S. 1111",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6575328,
+        6575493,
+        6575398,
+        6575463,
+        6575525,
+        6575593,
+        6575559,
+        6575368,
+        6575629,
+        6575309,
+        6575663,
+        6575419,
+        6575443,
+        6575707
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/1111-02",
+        "/us/502/1111-08",
+        "/us/502/1111-04",
+        "/us/502/1111-07",
+        "/us/502/1111-09",
+        "/us/502/1111-11",
+        "/us/502/1111-10",
+        "/us/502/1111-03",
+        "/us/502/1111-12",
+        "/us/502/1111-01",
+        "/us/502/1111-13",
+        "/us/502/1111-05",
+        "/us/502/1111-06",
+        "/us/502/1111-14"
+      ]
+    },
+    {
+      "cite": "812 P.2d 483",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 141",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373866
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0141-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 588,
+    "char_count": 10306,
+    "ocr_confidence": 0.799,
+    "pagerank": {
+      "raw": 9.652402304210694e-08,
+      "percentile": 0.5280423684932982
+    },
+    "sha256": "b336b5c539c3300751d457fbb3ff8096a3342e86219b34335bdfdff1c10889ef",
+    "simhash": "1:4463d16ee6aa7abb",
+    "word_count": 1758
+  },
+  "last_updated": "2024-02-27T21:16:42.518204+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Munson and Schultheis, JJ., concur."
+    ],
+    "parties": [
+      "Trina Gonzales, Individually and as Personal Representative, Respondent, v. Carlos Cowen, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Sweeney, A.C.J.\nChristopher Gonzales died after suffering a severe reaction to a DPT vaccination. His mother, Trina Gonzales, now Trina Hixon, filed a claim pursuant to the National Childhood Vaccine Injury Act of 1986 (NCVIA), 42 U.S.C. \u00a7 300aa-l et seq. A special master of the United States Claims Court awarded $250,000 to Christopher\u2019s estate. Following the award, Christopher\u2019s putative father, Carlos Cowen, claimed the right to one-half of the award. On cross motions for summary judgment, the court held that Mr. Cowen was not entitled to share in the distribution of Christopher\u2019s estate because he had not established paternity prior to Christopher\u2019s death. Mr. Cowen appeals the adverse summary judgment. We affirm.\nFacts and Procedural History\nMs. Hixon and Mr. Cowen met in approximately 1986 when Mr. Cowen was stationed in Alaska with the United States Air Force. For a year and a half, they saw each other once or twice a week. In 1987, Mr. Cowen was transferred to South Carolina. Ms. Hixon followed. In April of 1988, she left Mr. Cowen because of his heavy drinking and abusive conduct. Mr. Cowen moved to New Jersey after his discharge from the service in September 1988. In June of 1989, Ms. Hixon moved to New Jersey to be near him. At some point, Ms. Hixon discovered that Mr. Cowen was living with another woman. At about the same time, she also discovered she was pregnant. When she was 6 months pregnant, Ms. Hixon moved to Seattle. Christopher was born on April 1, 1990. Tragically, the child suffered an adverse reaction to a DPT vaccination and died on June 9,1990. Mr. Cowen never saw Christopher prior to the child\u2019s death and provided no financial support for either Christopher or Ms. Hixon.\nIn early March of 1992, the Yakima County Superior Court authorized Ms. Hixon to withdraw one-half of the $250,000 NCVIA compensation award which had been awarded to Christopher\u2019s estate. The remaining one-half of the award was paid into the registry of the court. On March 20, 1992, Ms. Hixon brought a declaratory judgment action seeking a declaration that she was entitled to the balance of the award because Mr. Cowen had abandoned the child and had not contributed any financial support. She alleged that Mr. Cowen had no right to the award. In his answer, Mr. Cowen admitted he was Christopher\u2019s father and denied he had abandoned the child. He requested that the court grant a declaratory judgment that he was entitled to one-half of the NCVIA recovery.\nBoth parties moved for summary judgment. The court concluded that the NCVIA award was an asset of Christopher\u2019s estate to be distributed in accordance with the laws of the State of Washington. The court granted Ms. Hixon\u2019s motion for summary judgment. It concluded that Mr. Cowen\u2019s failure to establish his paternity prior to Christopher\u2019s death was fatal to the claim of paternity and any right to inherit from the child\u2019s estate. Mr. Cowen\u2019s motion for reconsideration was denied; he filed a timely notice of appeal.\nIssue\nThe question presented here is whether Mr. Cowen, Christopher\u2019s putative father, is entitled to a one-half share of Christopher\u2019s intestate estate even though he did not establish his paternity prior to the child\u2019s death.\nDiscussion\nThe question presents an issue of law and our review is therefore de novo. State v. McCormack, 117 Wn.2d 141, 143, 812 P.2d 483 (1991), cert. denied, 502 U.S. 1111, 117 L. Ed. 2d 453, 112 S. Ct. 1215 (1992). The net estate of a person dying intestate, without surviving issue, is to be distributed to the \"parent or parents who survive the intestate\u201d. RCW 11.04.015(2)(b). The laws of descent and distribution, however, do not address the issue of whether a putative father, who has not established paternity prior to the child\u2019s death, may inherit from that child\u2019s estate pursuant to RCW 11.04.015.\nThe Uniform Parentage Act (UPA), RCW 26.26, however, addresses in some detail those issues related to parentage and the establishment of paternity. And the propriety of resolving paternity issues in accordance with the UPA, in the context of a probate proceeding, has been recognized. In McKinnon v. White, 40 Wn. App. 184, 193, 698 P.2d 94, review denied, 103 Wn.2d 1042 (1985), we held that:\nthe probate code, RCW 11.02.010, and the UPA, RCW 26.26.080(1), can be construed together and harmonized, since the first allows the probate court authority to \"do all things proper or incident to the exercise of\u201d its jurisdiction, and the second allows the court to join a paternity action with any other civil action.\nWe therefore turn to the provisions of the UPA for an answer to the issue presented here. In doing so, we read the UPA in a manner consistent with its purpose and therefore the intent of the Legislature. Anderson v. Morris, 87 Wn.2d 706, 716, 558 P.2d 155 (1976); see In re Williams, 121 Wn.2d 655, 663, 853 P.2d 444 (1993).\nTurning first to the purpose of the UPA, we observe that its primary goal is the equalization of the rights of all children whether born legitimate or not. Sheila A. Malloy, Comment, Washington\u2019s Parentage Act: A Step Forward for Children\u2019s Rights, 12 Gonz. L. Rev. 455, 456 (1977). The statutory provisions implementing this goal focus on the identification of a parent, establishment of a legal relationship with both parents, and recognition of the child\u2019s right to support:\nThe Act\u2019s purpose of giving full equality to all children by recognizing their right to parental support and their legal relationship with both parents, is to be achieved by determining the identity of the parent against whom the child\u2019s rights may be asserted.\n(Footnotes omitted. Italics ours.) 12 Gonz. L. Rev. at 457. The purpose of the UPA is to further the interests of children, not their putative parents. See Hayward v. Hansen, 97 Wn.2d 614, 617, 647 P.2d 1030 (1982) (intention is to protect child\u2019s right to support and determination of parentage). With this purpose in mind, we now turn to the pertinent provisions of the UPA.\nRCW 26.26.090(1) provides that: \"The child shall be made a party to the action [to establish paternity].\u201d The requirement that a child be made a party to the action is jurisdictional. In re Burley, 33 Wn. App. 629, 633-34, 658 P.2d 8 (minor child is an indispensable party to any action under RCW 26.26), review denied, 99 Wn.2d 1016 (1983). Although RCW 26.26.090(1) provides that the child may be represented by a general guardian or a guardian ad litem appointed by the court, it makes no provision for a substitution for the child by a personal representative if the child is deceased. This is in contrast to RCW 26.26.080(3) which provides that a child may bring an action pursuant to the UPA against the estate of a putative father if his or her father is deceased. Consequently, because Christopher cannot be made a party to the paternity action, Mr. Cowen may not establish paternity after the child\u2019s death.\nMr. Cowen argues that his action to establish paternity-may be brought at any time, even after Christopher\u2019s death. He relies on the language of RCW 26.26.060(1)(a): \"a man . . . alleging himself to be the father . . . may bring an action at any time for the purpose of declaring the existence or nonexistence of the father and child relationship.\u201d (Italics ours.) But this language must be read consistently with RCW 26.26.090(1) which, as noted, requires that the child be made a party to the action. Anderson, at 716; Snohomish Cy. Imp. Alliance v. Snohomish Cy., 61 Wn. App. 64, 74, 808 P.2d 781 (1991) (it runs counter to legislative intent to hold that what is permitted in one statute can be said to violate another statute). When both provisions are read together in the light of the purpose of the UPA, a paternity action may be brought at \"any time\u201d as long as the child can be \"made a party to the action\u201d \u2014 that is, before he or she dies. RCW 26.26.060(1)(a), .090(1).\nHere, Mr. Cowen did not establish paternity prior to Christopher\u2019s death; as we read the UPA, his claim of paternity necessarily fails.\nThe decision of the trial court is affirmed.\nMunson and Schultheis, JJ., concur.\nThat statute provides:\n\"The net estate of a person dying intestate, or that portion thereof with respect to which the person shall have died intestate,. . . shall be distributed as follows:\n\u201c(2). . . The share of the net estate not distributable to the surviving spouse, or the entire net estate if there is no surviving spouse, shall descend and be distributed as follows:\n\"(b) If the intestate not be survived by issue, then to the parent or parents who survive the intestate.\u201d\nThat statute provides:\n\"The child shall be made a party to the action. If the child is a minor, the child shall be represented by the child\u2019s general guardian or a guardian ad litem appointed by the court subject to RCW 74.20.310. The child\u2019s mother or father may not represent the child as guardian or otherwise. The natural mother, each man presumed to be the father under RCW 26.26.040, and a man or men alleged to be the natural father shall be made parties or, if not subject to the jurisdiction of the court, shall, if possible, be given actual notice of the action and an opportunity to be heard in a manner as the court may prescribe.\u201d\nThis is also the rule in other jurisdictions. Perez v. Department of Health, 71 Cal. App. 3d 923, 138 Cal. Rptr. 32 (1977); In re Marriage of Burkey, 689 P.2d 726 (Colo. Ct. App. 1984); Hadland v. Schroeder, 326 N.W.2d 709 (N.D. 1982).\nThat statute provides:\n\"The action may be brought in the county in which the child or the alleged father resides or is found or, if the father is deceased, in which proceedings for probate of his estate have been or could be commenced.\u201d (Italics ours.)\nThe trial court here determined that RCW 26.26.060(1)(a) does not authorize or allow an action to be brought after the child has died. The court held that such an interpretation would be inconsistent with RCW 26.26.090(1) and case law requiring that the child \u201cshall\u201d be made a party to the action.",
+        "type": "majority",
+        "author": "Sweeney, A.C.J."
+      }
+    ],
+    "attorneys": [
+      "Bryan G. Evenson and Thorner, Kennedy & Gano, for appellant.",
+      "Linda Ann Sellers and Halverson & Applegate, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 13161-1-III.\nDivision Three.\nNovember 29, 1994.]\nTrina Gonzales, Individually and as Personal Representative, Respondent, v. Carlos Cowen, Appellant.\nBryan G. Evenson and Thorner, Kennedy & Gano, for appellant.\nLinda Ann Sellers and Halverson & Applegate, for respondent."
+  },
+  "file_name": "0277-01",
+  "first_page_order": 313,
+  "last_page_order": 319
+}
