@@ -31,19 +31,19 @@ place a rounding error becomes a dispute between people who have just lost someo
 Navigator serves this bundle at:
 
 ```text
-/app/projects/montgomery-estate/portal/
+/app/projects/sample-estate/portal/
 ```
 
-`montgomery-estate` is the Project code; `portal` is a literal segment of Navigator's route, not an application name it looks up.
+`sample-estate` is the Project code; `portal` is a literal segment of Navigator's route, not an application name it looks up.
 Navigator streams the bytes through its own origin behind the session cookie and the participation gate; it never
 redirects to a signed URL, because a signed URL is bearer-shareable and would not carry the session.
 
 That has three consequences for this app:
 
-1. **Vite `base` is baked at build time** and must be `/app/projects/montgomery-estate/portal/`. A bundle built with the wrong base
+1. **Vite `base` is baked at build time** and must be `/app/projects/sample-estate/portal/`. A bundle built with the wrong base
    404s on every asset. It is one named constant at the top of `vite.config.ts`.
 2. **Never hardcode a mount-absolute link.** Write links relative to the base, or derive them — `src/mount.ts` is the
-   whole of that job, and `portalPath()` is what every in-bundle link goes through. Hardcoded `/montgomery-estate/...` strings are
+   whole of that job, and `portalPath()` is what every in-bundle link goes through. Hardcoded `/sample-estate/...` strings are
    the single most common way one of these bundles breaks under its real mount, and they break silently, because the
    link only fails when somebody clicks it. Links to Navigator's *own* routes (`/app/projects`) stay absolute.
 3. **Same-origin is the whole mechanism.** Because the bundle is served from Navigator's origin, its calls to
@@ -60,7 +60,7 @@ CDN script tag works on the dev server and is blocked in production.
 The bundle must show that it actually mounted, through an element carrying:
 
 ```text
-id="montgomery-estate-portal-ready"
+id="sample-estate-portal-ready"
 ```
 
 Navigator's browser walkthrough waits for it. It is rendered by React (`src/ready.tsx`), never written into
@@ -72,7 +72,7 @@ signal exists to catch.
 `navigator.yml` declares it:
 
 ```yaml
-name: montgomery-estate
+name: sample-estate
 ```
 
 Navigator re-reads that file at boot rather than trusting the directory the bundle was staged in, and refuses a bundle
@@ -90,7 +90,7 @@ pnpm check                        # lint, typecheck, build, test — what CI run
 To build it the way Navigator does, from a Navigator checkout:
 
 ```bash
-cargo run -p cli -- dev sample-project --project montgomery-estate
+cargo run -p cli -- dev sample-project --project sample-estate
 ```
 
 That clones, builds, and stages this bundle for the next local `web` boot. Restart `web` afterwards so it reads the
