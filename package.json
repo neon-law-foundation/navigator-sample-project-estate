@@ -20,12 +20,9 @@
     "check": "pnpm lint && pnpm typecheck && pnpm build && pnpm test"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.3.3",
-    "clsx": "^2.1.1",
+    "@neon-law-foundation/navigator-ux": "https://github.com/neon-law-foundation/navigator-ux/releases/download/v0.7.0/navigator-ux-v0.7.0.tgz",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8",
-    "tailwind-merge": "^3.6.0",
-    "tailwindcss": "^4.3.3"
+    "react-dom": "^19.2.8"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^7.0.1",

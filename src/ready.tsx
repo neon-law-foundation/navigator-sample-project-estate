@@ -1,6 +1,8 @@
 // Copyright (C) 2026 Neon Law Foundation.
 // SPDX-License-Identifier: AGPL-3.0-only
 
+import { Badge } from '@neon-law-foundation/navigator-ux'
+
 /**
  * Navigator's mount signal.
  *
@@ -16,12 +18,13 @@
 export const READY_ID = 'sample-estate-portal-ready'
 
 export function Ready() {
+  // The id rides on a wrapper rather than on the badge itself: `Badge` takes a
+  // tone and its children and nothing else, which is the library's boundary
+  // holding — a component that accepted arbitrary DOM attributes would be a
+  // component whose markup is nobody's to guarantee.
   return (
-    <span
-      id={READY_ID}
-      className="inline-block rounded-full bg-emerald-100 px-2.5 py-0.5 text-xs font-medium text-emerald-900 dark:bg-emerald-950 dark:text-emerald-200"
-    >
-      Client portal · live
+    <span id={READY_ID}>
+      <Badge tone="ready">Client portal · live</Badge>
     </span>
   )
 }
