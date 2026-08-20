@@ -17,7 +17,7 @@
 
 export const MATTER = {
   /** The Project code. It is also the first segment of the bucket prefix. */
-  code: 'montgomery-estate',
+  code: 'sample-estate',
   caption: 'Estate of Cornelius Montgomery',
   client: 'Cornelius Montgomery',
   practice: 'Estate plan',
