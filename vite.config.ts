@@ -69,9 +69,24 @@ function licenseBanner(): Plugin {
   }
 }
 
+/**
+ * The port the dev server listens on.
+ *
+ * The preview harness picks a free port and passes it in `PORT`, so that two
+ * worktrees of this repository can run side by side instead of fighting over
+ * 5173. It then opens the browser at exactly that port, which is why the
+ * assigned case is strict: Vite's default of quietly stepping to the next free
+ * port would leave the harness pointing at nothing.
+ */
+const devPort = process.env.PORT
+
 export default defineConfig({
   base: MOUNT,
   plugins: [react(), licenseBanner()],
+  server: {
+    port: devPort ? Number(devPort) : 5173,
+    strictPort: devPort !== undefined,
+  },
   test: {
     environment: 'jsdom',
     setupFiles: ['./src/test/setup.ts'],
