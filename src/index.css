@@ -14,7 +14,7 @@
 
 /* Upstream workaround, and the only rule in this file.
  *
- * Navigator UX v0.7.0 draws the `ActionList` step number as
+ * Navigator UX v0.8.0 draws the `ActionList` step number as
  * `color: var(--nav-color-on-primary)` — white — on
  * `background: var(--nav-color-surface)`, which is also white in the light
  * scheme, so the numbers are invisible in exactly one scheme. The ink token
