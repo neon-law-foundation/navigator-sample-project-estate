@@ -75,3 +75,20 @@ python3 research/convert.py
 Nothing in `research/opinions/` is edited by hand. `src/research.ts` is the index the
 portal renders; `research/README.md` records where the text came from and what has not
 been verified.
+
+## Merging
+
+A green gate arms GitHub auto-merge on its own: the `enable-automerge` job in
+`.github/workflows/ci.yml` squash-merges the pull request once `ci` passes and review threads are
+resolved. To hold a pull request that is ready, convert it to draft rather than disabling
+auto-merge — a push re-arms it.
+
+It arms as the `neon-law-staging-merge-queue` App and never as `GITHUB_TOKEN`, and that distinction
+is load-bearing rather than cosmetic. GitHub creates no workflow runs for a push attributed to
+`GITHUB_TOKEN`, and auto-merge merges as whoever armed it, so a merge armed with the run's own token
+lands on `main` and starts nothing — not a skipped run, not a red one: none. Nothing goes red,
+because nothing runs. `.github/automerge-identity.py` runs inside `ci` and fails the gate if that
+fallback is ever reintroduced.
+
+If the App secrets are absent the job arms nothing and the pull request visibly waits for a human,
+which is the safe direction to fail. Merge by hand in that case.
