@@ -1,9 +1,10 @@
 # State ex rel. Cowley v. Superior Court
 
-**Full caption:** The State of Washington, on the Relation of William Marion Cowley et al., Petitioners, v. The Superior Court for King County, Respondent
+**Full caption:** The State of Washington, on the Relation of William Marion Cowley et al., Petitioners, v. The Superior
+Court for King County, Respondent
 
 | | |
-|---|---|
+| --- | --- |
 | Citations | 158 Wash. 546 |
 | Court | Washington Supreme Court |
 | Decided | 1930-09-22 |
@@ -14,43 +15,218 @@
 **Counsel:** Murphy é Kumm and Orville G. Match, Jr., for re-lators. Poe, Palknor, Falknor & Emory, for respondent.
 
 > [No. 22601.
+>
 > Department Two.
+>
 > September 22, 1930.]
-> The State of Washington, on the Relation of William Marion Cowley et al., Petitioners, v. The Superior Court for King County, Respondent.
+>
+> The State of Washington, on the Relation of William Marion Cowley et al., Petitioners, v. The Superior Court for King
+> County, Respondent.
+>
 > Murphy é Kumm and Orville G. Match, Jr., for re-lators.
+>
 > Poe, Palknor, Falknor & Emory, for respondent.
+>
 > Reported in 291 Pac. 481.
 
-## Majority — Fullerton, J.
+## Majority — Fullerton, J
 
 Fullerton, J.
-William-Anna Loring, a widow, died in France from injuries received in an automobile accident on April 30,1930. At the time of her death, she was a resident of the city of Seattle, in this state, and left a relatively large estate therein, consisting principally of shares of stock in a corporation which owns, operates and manages business properties in the city named.
-The decedent left surviving her as her direct heirs, that is to say, heirs who would inherit her estate under the laws of descent of this state, a daughter and two granddaughters; the granddaughters being children of a deceased son. As collateral relatives, that is to say, relatives who have no direct inheritable interest in her estate, she left three nephews, also residents of the city of Seattle.
-The decedent left a will in which, after making a specific bequest and devise to her daughter, she bequeathed and devised the remainder of her property in trust for the benefit of her daughter and her granddaughters. In her will, she named her sister, Eleanor F. Holland, as the executrix of her estate, but made no provision for an-alternate executor or executrix in the case the executrix named was not able to act as such.
-The executrix named in the will died from injuries received in the accident which caused the death of her testatrix, and following her death, the daughter of the decedent, and a granddaughter who had then reached the age of majority, petitioned the superior court of King county to admit the will to probate and to appoint one, F. J. McCurdy, of Seattle, as administrator of the estate with the will annexed. Pending the hearing on the petition, the three nephews filed a petition in the same proceedings, asking the appointment ■ of one of their number, William Marion Cowley, as such administrator. The petitions were consolidated for the purposes of the hearing, and evidence was taken on the respective applications, resulting in the appointment of F. J. McCurdy as such administrator.
-The proceeding before us is on a writ of certiorari issued out of this court to review the order of the superior court. On the hearing, it appeared that Mrs. Loring, at the time of her death, owned five-sixths of the capital stock in the corporation above mentioned; that the corporation had just completed an apartment hotel at a cost of upward of $1,000,000, and that its capital stock had a book value of. more than $1,100,000; that McCurdy is, and for more than five years last past has been, the vice-president and general manager of the corporation, and the person who has had the sole management and control of the business of the corporation during that period. No question is made as to his qualifications to act as administrator. On the other hand, it is conceded by counsel for the nephews that the nephews have no beneficial interest in the estate of Mrs. Loring, as heirs or otherwise. The record furthermore shows that neither of them has ever had any connection with, or interest in, the corporation whose capital stock forms the principal asset of the estate, and that they are strangers to its business and its business methods. They rest their right to have one of their number appointed as administrator wholly upon the statutes.
-The first of the sections of the statutes thought to be controlling is found at § 1417 of Remington’s Compiled Statutes, and reads as follows:
-“After probate of any will, letters testamentary shall be granted to the persons therein appointed executors. If a part of the persons -thus appointed refuse to act, or be disqualified, the letters shall be granted to the other persons appointed therein.. If all such persons refuse to act, letters of administration with the will annexed shall be granted to the person to whom administration would have been granted if there had been no will.”
+
+William-Anna Loring, a widow, died in France from injuries received in an automobile accident on April 30,1930. At the
+time of her death, she was a resident of the city of Seattle, in this state, and left a relatively large estate therein,
+consisting principally of shares of stock in a corporation which owns, operates and manages business properties in the
+city named.
+
+The decedent left surviving her as her direct heirs, that is to say, heirs who would inherit her estate under the laws
+of descent of this state, a daughter and two granddaughters; the granddaughters being children of a deceased son. As
+collateral relatives, that is to say, relatives who have no direct inheritable interest in her estate, she left three
+nephews, also residents of the city of Seattle.
+
+The decedent left a will in which, after making a specific bequest and devise to her daughter, she bequeathed and
+devised the remainder of her property in trust for the benefit of her daughter and her granddaughters. In her will, she
+named her sister, Eleanor F. Holland, as the executrix of her estate, but made no provision for an-alternate executor or
+executrix in the case the executrix named was not able to act as such.
+
+The executrix named in the will died from injuries received in the accident which caused the death of her testatrix, and
+following her death, the daughter of the decedent, and a granddaughter who had then reached the age of majority,
+petitioned the superior court of King county to admit the will to probate and to appoint one, F. J. McCurdy, of Seattle,
+as administrator of the estate with the will annexed. Pending the hearing on the petition, the three nephews filed a
+petition in the same proceedings, asking the appointment ■ of one of their number, William Marion Cowley, as such
+administrator. The petitions were consolidated for the purposes of the hearing, and evidence was taken on the respective
+applications, resulting in the appointment of F. J. McCurdy as such administrator.
+
+The proceeding before us is on a writ of certiorari issued out of this court to review the order of the superior court.
+On the hearing, it appeared that Mrs. Loring, at the time of her death, owned five-sixths of the capital stock in the
+corporation above mentioned; that the corporation had just completed an apartment hotel at a cost of upward of
+$1,000,000, and that its capital stock had a book value of. more than $1,100,000; that McCurdy is, and for more than
+five years last past has been, the vice-president and general manager of the corporation, and the person who has had the
+sole management and control of the business of the corporation during that period. No question is made as to his
+qualifications to act as administrator. On the other hand, it is conceded by counsel for the nephews that the nephews
+have no beneficial interest in the estate of Mrs. Loring, as heirs or otherwise. The record furthermore shows that
+neither of them has ever had any connection with, or interest in, the corporation whose capital stock forms the
+principal asset of the estate, and that they are strangers to its business and its business methods. They rest their
+right to have one of their number appointed as administrator wholly upon the statutes.
+
+The first of the sections of the statutes thought to be controlling is found at § 1417 of Remington’s Compiled Statutes,
+and reads as follows:
+
+“After probate of any will, letters testamentary shall be granted to the persons therein appointed executors. If a part
+of the persons -thus appointed refuse to act, or be disqualified, the letters shall be granted to the other persons
+appointed therein.. If all such persons refuse to act, letters of administration with the will annexed shall be granted
+to the person to whom administration would have been granted if there had been no will.”
+
 The second is found at § 1431 of Rem. 1927 Sup., and reads:
-“Administration of the estate of the person dying-intestate shall be granted to some one or more of the persons hereinafter mentioned, and they shall be respectively entitled in the following order:
+
+“Administration of the estate of the person dying-intestate shall be granted to some one or more of the persons
+hereinafter mentioned, and they shall be respectively entitled in the following order:
+
 “1. The surviving husband or wife, or such person as he or she may request to have appointed.
-“2. The next of kin in the following order: 1, child or children; 2, father or mother; 3, brothers or sisters; 4, grandchildren; 5, nephews or nieces.
+
+“2. The next of kin in the following order: 1, child or children; 2, father or mother; 3, brothers or sisters; 4,
+grandchildren; 5, nephews or nieces.
+
 “3. One or more of the principal creditors.
-“4. If the persons so entitled shall fail for more than forty days after the death of the intestate to present a petition for letters of administration, or if it appear to the satisfaction of the court that there are no relatives or next of kin, as above specified eligible to appointment, or they waive their right, and there are no principal creditor or creditors, or such creditor or creditors waive their right, then the court may appoint any suitable person to administer such estate.”
-The facts recited, it will be observed, present an instance where the executrix named in the will cannot act, vesting- the right to the appointment in the person to whom administration would have been granted had there been no will. The second of the sections quoted is therefore applicable to the situation. There being no surviving husband, the right vested in the next of kin in the following order (speaking, of course, with reference to the facts shown), first in the daughter, second, in the granddaughter, and third, in the nephews. It will be observed that the statute vests the right to request the appointment of a third person as administrator only in the surviving husband or wife, not in the persons denominated in the statute as next of kin, so that a request made by one of those first in right for the appointment of some one in his stead does not affect the right of those coming after, even though the person having the superior right may be qualified to act. Stated in a more direct way, the person qualified must either accept the appointment himself or waive the right absolutely.
-The trial court rested its conclusion on the principle that the statute was not mandatory in the sense that it must be literally followed. It reasoned that, since the nephews in this instance were not beneficiaries of the estate either under the statutes of descent or by the terms of the will, they were as much strangers to the estate as were any other persons having no interest therein, and because thereof they did not fall within the meaning of the term “next of kin,” as used in the statute; holding further that, since neither of the nephews had an absolute right to be appointed administrator, it could exercise its discretion in making an appointment.
-Whether the term “next of kin,” as used in the statute, includes persons, although relatives by blood, who have no interest in the estate, either under the statutes of descent or by the terms of the will of the decedent, is a question of first impression in this court. It has, however, received consideration in the courts of other jurisdictions. These courts hold with practical unanimity that such a relative is not the “next of kin,” within the meaning of the statute. In In re Estate of Weaver, 140 Iowa 615, 119 N. W. 69, 22 L. R. A. (N. S.) 1161, it appeared that a John Weaver died intestate, leaving, as Ms only heir-at-law, a nonresident son. On petition of the son, a stranger to the blood was appointed administrator. Later on, a brother of the deceased, who would not inherit under the statutes of descent, petitioned the court to revoke the appointment made, and appoint the petitioner such administrator. The trial court granted the petition, and on appeal its order was reversed, the court saying:
-“Code, section 3297, provides that, where an executor is not appointed by will, administration shall be granted: (1) To the husband or wife of the deceased; (2) to his next of Mn; (3) to his creditors; (4) to any other person the court may select. The argument in support of the action of the court is, in substance, that the brother of the deceased was a ‘next of Mn;’ that although the son was a nearer Mn, and his right to administration had preference over the right of the brother, yet upon his failure to exercise that right within the time provided by the statute, he lost it, and that the brother was then entitled to take his turn. This argument involves the question of the right of a party preferred under the statute to nominate a stranger in his stead, and considerable of the argument of counsel is devoted to that question. We shall have no occasion to go into that question in the determination of this case. The fallacy which has entered into the argument supporting this proceeding is the assumption that a brother of a decedent is necessarily a ‘next of Mn.’ In the primary meaning of this term the next of kin of a decedent are the persons nearest in degree of blood surviving him. 16 Am. & Eng. Ency. 703. No relative can be said to be ‘nearest’ in degree of blood if some one else be ‘nearer.’ If a decedent leave neither parent nor lineal descendant surviving him, then surviving brothers and sisters would be nearest in blood, and ‘next of kin.’ In its practical use in public statutes the term ‘next of kin’ has come to mean ordinarily those persons who take the personal estate of the deceased under the statutes of distribution. . . . The brother, appellee herein, was therefore not a next of Mn. The statute quoted confers upon him no right nor privilege whatever with reference to the estate of the decedent. ’ ’
+
+“4. If the persons so entitled shall fail for more than forty days after the death of the intestate to present a
+petition for letters of administration, or if it appear to the satisfaction of the court that there are no relatives or
+next of kin, as above specified eligible to appointment, or they waive their right, and there are no principal creditor
+or creditors, or such creditor or creditors waive their right, then the court may appoint any suitable person to
+administer such estate.”
+
+The facts recited, it will be observed, present an instance where the executrix named in the will cannot act, vesting-
+the right to the appointment in the person to whom administration would have been granted had there been no will. The
+second of the sections quoted is therefore applicable to the situation. There being no surviving husband, the right
+vested in the next of kin in the following order (speaking, of course, with reference to the facts shown), first in the
+daughter, second, in the granddaughter, and third, in the nephews. It will be observed that the statute vests the right
+to request the appointment of a third person as administrator only in the surviving husband or wife, not in the persons
+denominated in the statute as next of kin, so that a request made by one of those first in right for the appointment of
+some one in his stead does not affect the right of those coming after, even though the person having the superior right
+may be qualified to act. Stated in a more direct way, the person qualified must either accept the appointment himself or
+waive the right absolutely.
+
+The trial court rested its conclusion on the principle that the statute was not mandatory in the sense that it must be
+literally followed. It reasoned that, since the nephews in this instance were not beneficiaries of the estate either
+under the statutes of descent or by the terms of the will, they were as much strangers to the estate as were any other
+persons having no interest therein, and because thereof they did not fall within the meaning of the term “next of kin,”
+as used in the statute; holding further that, since neither of the nephews had an absolute right to be appointed
+administrator, it could exercise its discretion in making an appointment.
+
+Whether the term “next of kin,” as used in the statute, includes persons, although relatives by blood, who have no
+interest in the estate, either under the statutes of descent or by the terms of the will of the decedent, is a question
+of first impression in this court. It has, however, received consideration in the courts of other jurisdictions. These
+courts hold with practical unanimity that such a relative is not the “next of kin,” within the meaning of the statute.
+In In re Estate of Weaver, 140 Iowa 615, 119 N. W. 69, 22 L. R. A. (N. S.) 1161, it appeared that a John Weaver died
+intestate, leaving, as Ms only heir-at-law, a nonresident son. On petition of the son, a stranger to the blood was
+appointed administrator. Later on, a brother of the deceased, who would not inherit under the statutes of descent,
+petitioned the court to revoke the appointment made, and appoint the petitioner such administrator. The trial court
+granted the petition, and on appeal its order was reversed, the court saying:
+
+“Code, section 3297, provides that, where an executor is not appointed by will, administration shall be granted: (1) To
+the husband or wife of the deceased; (2) to his next of Mn; (3) to his creditors; (4) to any other person the court may
+select. The argument in support of the action of the court is, in substance, that the brother of the deceased was a
+‘next of Mn;’ that although the son was a nearer Mn, and his right to administration had preference over the right of
+the brother, yet upon his failure to exercise that right within the time provided by the statute, he lost it, and that
+the brother was then entitled to take his turn. This argument involves the question of the right of a party preferred
+under the statute to nominate a stranger in his stead, and considerable of the argument of counsel is devoted to that
+question. We shall have no occasion to go into that question in the determination of this case. The fallacy which has
+entered into the argument supporting this proceeding is the assumption that a brother of a decedent is necessarily a
+‘next of Mn.’ In the primary meaning of this term the next of kin of a decedent are the persons nearest in degree of
+blood surviving him. 16 Am. & Eng. Ency. 703. No relative can be said to be ‘nearest’ in degree of blood if some one
+else be ‘nearer.’ If a decedent leave neither parent nor lineal descendant surviving him, then surviving brothers and
+sisters would be nearest in blood, and ‘next of kin.’ In its practical use in public statutes the term ‘next of kin’ has
+come to mean ordinarily those persons who take the personal estate of the deceased under the statutes of distribution. .
+. . The brother, appellee herein, was therefore not a next of Mn. The statute quoted confers upon him no right nor
+privilege whatever with reference to the estate of the decedent. ’ ’
+
 In Cooper v. Cooper, 43 Ind. App. 620, 88 N. E. 341, the court said:
-“It is said in 1 Williams, Executors (7th Am. ed.), 512: ‘It has always been considered, both in the common-law and spiritual courts, that the object of the statutes of administration is to give the management of the property to- the person who has the beneficial interest in it.’ The paramount object and purpose of our statute, and of all statutes, in fixing the order of preference in which letters of administration shall be granted, is to secure to those having a beneficial interest in the property to be administered upon the right to administer. It is to be supposed that those who will reap the benefit of a wise, speedy and economical administration of the estate, or, on the other hand, suffer the consequence of waste, improvidence or mismanagement, have the highest interest and most influential motive to administer the property correctly. The right to administer follows the right to the personal property. 1 Woerner, American Law of Administration (2d ed.), §235; Donahay v. Hall (1889), 45 N. J. Eq. 720, 18 Atl. 163; In re Davis (1895), 106 Cal. 453, 39 Pac. 756; Thornton v. Winston (1833), 4 Leigh (Va.) 152; Jordan v. Ball (1870), 44 Miss. 194; Johnson v. Johnson (1885), 15 R. I. 109, 23 Atl. 106; Dalrymple v. Gamble (1886), 66 Md. 298, 7 Atl. 683, 8 Atl. 468; Savage v. Blythe (1796), 2 Hagg. Ecc., Appendix, 150; Almes v. Almes (1796), 2 Hagg. Ecc., Appendix, 155; Kinnick v. Coy, 40 Ind. App. 139.
-“The phrase ‘next of kin’ means persons who are next of Mn at the time of the death of the intestate, and who inherit the estate left by the decedent. It is true that the heirs of a decedent are not always interested in the estate he may leave, because he may die insolvent, and nothing pass to the heirs. And it is also true that creditors of the decedent may have but little interest in his estate, because it may be amply solvent, and the creditors in no danger of losing their claims, however the estate may be managed or mismanaged. But the law presumes that the person having the first and highest interest in the estate of the deceased, because of the interest in the property that he leaves is the widow, and that next to her in point of interest are the heirs who would inherit the estate; and the words ‘next of kin,’ as used in the statute, mean those who would inherit the estate, because the next of kin do inherit.”
-In Colbert v. Thornley, 71 Atl. (R. I.) 65, the probate court appointed a stranger to the blood of the decedent as the administrator of the decedent’s estate. A brother of the deceased, who claimed to be the next of Mn of the decedent, appealed from the order, claiming a right in himself to the appointment. The court dismissed the appeal on motion, using this language:
-“The motion is based on the ground that the appellant has no interest in the estate which gives him a right to appeal. We can consider the motion only on the ground stated in the reasons of appeal that the appellant is next of kin of the intestate. If the appellant were next of kin within the meaning of the statute determining the right of appointment, the appellant would have stated a good reason of appeal, because he would have been the one entitled under the statute to appointment whether he had any financial interest in the estate or not. The appellant claims that he is next of kin, although the father of the intestate is living, because he would inherit as next of kin if the father were not living, and the father has not claimed the appointment. The appellant cites some interesting cases which appear to sustain his contention as to statutes similar to our own; but his contention that a person who is not next of kin, so as to entitle him to inherit as next of kin within our statutes, determining the appointment of administrators on intestate estates, does not appeal to us as in accordance with the spirit of Rhode Island decisions. Our decisions appear to interpret our statutes on appointment as basing the appointment on the ground that the person appointed has a direct financial interest in the estate, and so would be likely to conserve it. Schouler, Ex. § 111; Williams, Ex. p. 513; Johnson v. Johnson, 15 R. I. 109, 23 Atl. 106. . . . Our opinion therefore is that the appellant was not entitled under the statute to the appointment as administrator, and that upon this ground alone he was not aggrieved by the decree of the court appointing the appellee, and is therefore not entitled to appeal from said decree. ’ ’.
-In actions for wrongful death, founded on statutes giving a right of action to the “next of kin” of the person killed, the courts generally hold that the right of recovery is vested in those only who would inherit the property of the deceased under the statute of descent. Railway Co. v. Ryan, 62 Kan. 682, 64 Pac. 603; Railway Co. v. Townsend, 71 Kan. 524, 81 Pac. 205; Mid-Co. Petroleum, Co. v. Allen, 110 Okla. 101, 236 Pac. 426.
-So, also, it is held that the phrase “next of kin,”' used in a will or testamentary devise, includes those only who would inherit under the statutes of descent. Godfrey v. Epple, 100 Ohio St. 447, 126 N. E. 886; Glose v. Benham, 97 Conn. 102, 115 Atl. 626.
-But the appellant argues that our own cases, while not expressly passing on the question, are in principle contrary to the rule of the cited cases. It is true that we have, with some strictness, upheld the right of those named in the statute, and in the order they are therein named, to administer upon an estate, but none of the cases involved the question now presented. Nor have we, in all instances, followed the statute literally. We have held that the statute was not mandatory, and that the court sitting in probate could depart from the rule of the statute where there was a substantial reason requiring it. Instances are found in the cases of In re Langill’s Estate, 117 Wash. 268, 201 Pac. 28; In re Bredl’s Estate, 117 Wash. 372, 201 Pac. 296; In re Stotts' Estates, 133 Wash. 100, 233 Pac. 280. In the last cited case we said:
-“In a broad sense, the representative of a decedent holds the estate as a trust fund for the payment of the debts of the decedent, for the reason that the rights of creditors are preferred over those of heirs, devisees and legatees. Nevertheless, he also has in his charge the interests of the heirs, devisees and legatees. ‘He occupies the position of trustee for the persons beneficially interested in the estate.’ 11 R. C. L., p. 23, § 6. The relation is such that he who serves as administrator should be one who can act impartially, and in those jurisdictions such as this where the court is not bound by mandatory statutory provisions on the subject of preference right of appointment, nor by enumerated causes of disqualification to act, no one should be appointed who is hostile to the observance of and respect for the rule that the purpose of administration is to both collect and preserve the estate and impartially assist in passing it to those beneficially interested according to the priority of their rights.”
-It has never been the policy of the law to give the administration of estates to those who have no interest therein, and the statute has not changed the rule in this respect. Larson v. Stewart, 69 Wash. 223, 124 Pac. 382, Ann. Cas. 1914A 1011. The reason is that strangers to an estate, who have no other interest in the selection of an administrator than the fees and emoluments that go with the office, do not have the same incentive to preserve the estate and cause it to pass to those beneficially interested without waste or loss or delay, as does one having such an interest.
-In this instance, it is true that the person selected by the court as administrator is without beneficial interest in the estate. But he was the choice of those who were beneficially interested, and their wishes are entitled to weight. Moreover, the person selected was in actual charge of the decedent’s property at the time of her death, and had been in such charge for a number of years prior thereto. He is the one person of all otters who has an intimate knowledge.of the property and its value, and manifestly he is better qualified to administer upon it than can be an absolute stranger thereto.
-It is our conclusion that the applicant has no preferential right to the appointment as administrator, and that the trial court did not err in the selection of another to act as such. Its order, therefore, will stand affirmed.
+
+“It is said in 1 Williams, Executors (7th Am. ed.), 512: ‘It has always been considered, both in the common-law and
+spiritual courts, that the object of the statutes of administration is to give the management of the property to- the
+person who has the beneficial interest in it.’ The paramount object and purpose of our statute, and of all statutes, in
+fixing the order of preference in which letters of administration shall be granted, is to secure to those having a
+beneficial interest in the property to be administered upon the right to administer. It is to be supposed that those who
+will reap the benefit of a wise, speedy and economical administration of the estate, or, on the other hand, suffer the
+consequence of waste, improvidence or mismanagement, have the highest interest and most influential motive to administer
+the property correctly. The right to administer follows the right to the personal property. 1 Woerner, American Law of
+Administration (2d ed.), §235; Donahay v. Hall (1889), 45 N. J. Eq. 720, 18 Atl. 163; In re Davis (1895), 106 Cal. 453,
+39 Pac. 756; Thornton v. Winston (1833), 4 Leigh (Va.) 152; Jordan v. Ball (1870), 44 Miss. 194; Johnson v. Johnson
+(1885), 15 R. I. 109, 23 Atl. 106; Dalrymple v. Gamble (1886), 66 Md. 298, 7 Atl. 683, 8 Atl. 468; Savage v. Blythe
+(1796), 2 Hagg. Ecc., Appendix, 150; Almes v. Almes (1796), 2 Hagg. Ecc., Appendix, 155; Kinnick v. Coy, 40 Ind. App.
+139\.
+
+“The phrase ‘next of kin’ means persons who are next of Mn at the time of the death of the intestate, and who inherit
+the estate left by the decedent. It is true that the heirs of a decedent are not always interested in the estate he may
+leave, because he may die insolvent, and nothing pass to the heirs. And it is also true that creditors of the decedent
+may have but little interest in his estate, because it may be amply solvent, and the creditors in no danger of losing
+their claims, however the estate may be managed or mismanaged. But the law presumes that the person having the first and
+highest interest in the estate of the deceased, because of the interest in the property that he leaves is the widow, and
+that next to her in point of interest are the heirs who would inherit the estate; and the words ‘next of kin,’ as used
+in the statute, mean those who would inherit the estate, because the next of kin do inherit.”
+
+In Colbert v. Thornley, 71 Atl. (R. I.) 65, the probate court appointed a stranger to the blood of the decedent as the
+administrator of the decedent’s estate. A brother of the deceased, who claimed to be the next of Mn of the decedent,
+appealed from the order, claiming a right in himself to the appointment. The court dismissed the appeal on motion, using
+this language:
+
+“The motion is based on the ground that the appellant has no interest in the estate which gives him a right to appeal.
+We can consider the motion only on the ground stated in the reasons of appeal that the appellant is next of kin of the
+intestate. If the appellant were next of kin within the meaning of the statute determining the right of appointment, the
+appellant would have stated a good reason of appeal, because he would have been the one entitled under the statute to
+appointment whether he had any financial interest in the estate or not. The appellant claims that he is next of kin,
+although the father of the intestate is living, because he would inherit as next of kin if the father were not living,
+and the father has not claimed the appointment. The appellant cites some interesting cases which appear to sustain his
+contention as to statutes similar to our own; but his contention that a person who is not next of kin, so as to entitle
+him to inherit as next of kin within our statutes, determining the appointment of administrators on intestate estates,
+does not appeal to us as in accordance with the spirit of Rhode Island decisions. Our decisions appear to interpret our
+statutes on appointment as basing the appointment on the ground that the person appointed has a direct financial
+interest in the estate, and so would be likely to conserve it. Schouler, Ex. § 111; Williams, Ex. p. 513; Johnson v.
+Johnson, 15 R. I. 109, 23 Atl. 106. . . . Our opinion therefore is that the appellant was not entitled under the statute
+to the appointment as administrator, and that upon this ground alone he was not aggrieved by the decree of the court
+appointing the appellee, and is therefore not entitled to appeal from said decree. ’ ’.
+
+In actions for wrongful death, founded on statutes giving a right of action to the “next of kin” of the person killed,
+the courts generally hold that the right of recovery is vested in those only who would inherit the property of the
+deceased under the statute of descent. Railway Co. v. Ryan, 62 Kan. 682, 64 Pac. 603; Railway Co. v. Townsend, 71 Kan.
+524, 81 Pac. 205; Mid-Co. Petroleum, Co. v. Allen, 110 Okla. 101, 236 Pac. 426.
+
+So, also, it is held that the phrase “next of kin,”' used in a will or testamentary devise, includes those only who
+would inherit under the statutes of descent. Godfrey v. Epple, 100 Ohio St. 447, 126 N. E. 886; Glose v. Benham, 97
+Conn. 102, 115 Atl. 626.
+
+But the appellant argues that our own cases, while not expressly passing on the question, are in principle contrary to
+the rule of the cited cases. It is true that we have, with some strictness, upheld the right of those named in the
+statute, and in the order they are therein named, to administer upon an estate, but none of the cases involved the
+question now presented. Nor have we, in all instances, followed the statute literally. We have held that the statute was
+not mandatory, and that the court sitting in probate could depart from the rule of the statute where there was a
+substantial reason requiring it. Instances are found in the cases of In re Langill’s Estate, 117 Wash. 268, 201 Pac. 28;
+In re Bredl’s Estate, 117 Wash. 372, 201 Pac. 296; In re Stotts' Estates, 133 Wash. 100, 233 Pac. 280. In the last cited
+case we said:
+
+“In a broad sense, the representative of a decedent holds the estate as a trust fund for the payment of the debts of the
+decedent, for the reason that the rights of creditors are preferred over those of heirs, devisees and legatees.
+Nevertheless, he also has in his charge the interests of the heirs, devisees and legatees. ‘He occupies the position of
+trustee for the persons beneficially interested in the estate.’ 11 R. C. L., p. 23, § 6. The relation is such that he
+who serves as administrator should be one who can act impartially, and in those jurisdictions such as this where the
+court is not bound by mandatory statutory provisions on the subject of preference right of appointment, nor by
+enumerated causes of disqualification to act, no one should be appointed who is hostile to the observance of and respect
+for the rule that the purpose of administration is to both collect and preserve the estate and impartially assist in
+passing it to those beneficially interested according to the priority of their rights.”
+
+It has never been the policy of the law to give the administration of estates to those who have no interest therein, and
+the statute has not changed the rule in this respect. Larson v. Stewart, 69 Wash. 223, 124 Pac. 382, Ann. Cas. 1914A
+1011\. The reason is that strangers to an estate, who have no other interest in the selection of an administrator than
+the fees and emoluments that go with the office, do not have the same incentive to preserve the estate and cause it to
+pass to those beneficially interested without waste or loss or delay, as does one having such an interest.
+
+In this instance, it is true that the person selected by the court as administrator is without beneficial interest in
+the estate. But he was the choice of those who were beneficially interested, and their wishes are entitled to weight.
+Moreover, the person selected was in actual charge of the decedent’s property at the time of her death, and had been in
+such charge for a number of years prior thereto. He is the one person of all otters who has an intimate knowledge.of the
+property and its value, and manifestly he is better qualified to administer upon it than can be an absolute stranger
+thereto.
+
+It is our conclusion that the applicant has no preferential right to the appointment as administrator, and that the
+trial court did not err in the selection of another to act as such. Its order, therefore, will stand affirmed.
+
 Mitchell, C. J., Holcomb, and Main, JJ., concur.
