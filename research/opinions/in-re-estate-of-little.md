@@ -3,7 +3,7 @@
 **Full caption:** In the Matter of the Estate of Pearl Fitzhugh Little
 
 | | |
-|---|---|
+| --- | --- |
 | Citations | 106 Wash. 2d 269 |
 | Court | Washington Supreme Court |
 | Decided | 1986-06-26 |
@@ -11,159 +11,571 @@
 | Pages | 269–290 |
 | Source | Caselaw Access Project (static.case.law), CAP id 1195541 |
 
-**Counsel:** Edwards & Barbieri, by Malcolm L. Edwards, Catherine W. Smith, and Howard M. Goodfriend, for appellants. C. Robert Collins, for respondents.
+**Counsel:** Edwards & Barbieri, by Malcolm L. Edwards, Catherine W. Smith, and Howard M. Goodfriend, for appellants. C.
+Robert Collins, for respondents.
 
 > [No. 51134-9.
+>
 > En Banc.
+>
 > June 26, 1986.]
+>
 > In the Matter of the Estate of Pearl Fitzhugh Little.
+>
 > Edwards & Barbieri, by Malcolm L. Edwards, Catherine W. Smith, and Howard M. Goodfriend, for appellants.
+>
 > C. Robert Collins, for respondents.
 
-## Majority — Andersen, J.
+## Majority — Andersen, J
 
 Andersen, J.
+
 Facts of Case
-This case presents issues of first impression concerning this state's ancestral estate statute (RCW 11.04.035), involving the intestate succession of property. Since the issues raised by this appeal relate only to the applicability of the statute to real property, we do not address whether the statute may also apply to personal property.
-Appellants seek review of a judgment of the trial court awarding the estate of Pearl Little to respondents, such award being based on the trial court's interpretation of the ancestral estate statute. The case was tried on affidavits.
-Pearl Little died intestate on July 13, 1983. She had neither children nor brothers or sisters. Her husband and her parents (Charles Mason Fitzhugh and Maggie Fitzhugh) predeceased her. Only collateral relatives were alive at the time of the decedent's passing.
-Appellants (the Squiqui claimants) are Pearl Little's paternal half-blood relatives. They are related to her through her father's previous marriage to Mary Pearson. Appellant Bert Squiqui is Pearl Little's nephew, appellant Francine Wilson is her grandniece, and appellant Patricia Ryan is her great grandniece.
-Respondents (the Cepa claimants) — 20 have been identified — are Pearl Little's maternal relatives. They are second and third cousins of Pearl Little since they are all descendants of Emma Cepa, her maternal aunt.
-Pearl Little's principal asset at the time of her passing was a 77-acre parcel of waterfront property at Roche Harbor on San Juan Island. It had an assessed value of $1,167,480. Pearl Little's grandfather originally homesteaded this property, receiving a homestead patent to it from President Chester A. Arthur in 1884. The grandfather died in 1900, and the property passed to his wife. In 1905, she then deeded the property to Pearl Little's mother, Maggie, as Maggie's separate property. In 1911, Maggie married Charles Mason Fitzhugh. In 1924 they mortgaged the land as security for a $550 bank loan, both signing the mortgage. Afterwards, Maggie deeded the land to Charles in return for his agreement to pay the mortgage. Later in 1924, they also executed a community property agreement under which all of their property would pass to the surviving spouse. Charles died in 1927, and the property passed to Maggie.
-On November 10, 1943, the day before Maggie Fitzhugh died intestate, she deeded most of the land comprising her estate to her daughter, Pearl Little. Pearl was Maggie's only child and sole heir.
+
+This case presents issues of first impression concerning this state's ancestral estate statute (RCW 11.04.035),
+involving the intestate succession of property. Since the issues raised by this appeal relate only to the applicability
+of the statute to real property, we do not address whether the statute may also apply to personal property.
+
+Appellants seek review of a judgment of the trial court awarding the estate of Pearl Little to respondents, such award
+being based on the trial court's interpretation of the ancestral estate statute. The case was tried on affidavits.
+
+Pearl Little died intestate on July 13, 1983. She had neither children nor brothers or sisters. Her husband and her
+parents (Charles Mason Fitzhugh and Maggie Fitzhugh) predeceased her. Only collateral relatives were alive at the time
+of the decedent's passing.
+
+Appellants (the Squiqui claimants) are Pearl Little's paternal half-blood relatives. They are related to her through her
+father's previous marriage to Mary Pearson. Appellant Bert Squiqui is Pearl Little's nephew, appellant Francine Wilson
+is her grandniece, and appellant Patricia Ryan is her great grandniece.
+
+Respondents (the Cepa claimants) — 20 have been identified — are Pearl Little's maternal relatives. They are second and
+third cousins of Pearl Little since they are all descendants of Emma Cepa, her maternal aunt.
+
+Pearl Little's principal asset at the time of her passing was a 77-acre parcel of waterfront property at Roche Harbor on
+San Juan Island. It had an assessed value of $1,167,480. Pearl Little's grandfather originally homesteaded this
+property, receiving a homestead patent to it from President Chester A. Arthur in 1884. The grandfather died in 1900, and
+the property passed to his wife. In 1905, she then deeded the property to Pearl Little's mother, Maggie, as Maggie's
+separate property. In 1911, Maggie married Charles Mason Fitzhugh. In 1924 they mortgaged the land as security for a
+$550 bank loan, both signing the mortgage. Afterwards, Maggie deeded the land to Charles in return for his agreement to
+pay the mortgage. Later in 1924, they also executed a community property agreement under which all of their property
+would pass to the surviving spouse. Charles died in 1927, and the property passed to Maggie.
+
+On November 10, 1943, the day before Maggie Fitzhugh died intestate, she deeded most of the land comprising her estate
+to her daughter, Pearl Little. Pearl was Maggie's only child and sole heir.
+
 The deed contained recitals both of consideration for the transfer and of gift. It read in part:
+
 Warranty Deed (Statutory Form)
-The Grantor, Maggie Anderson Fitzhugh, widow of Mason Fitzhugh, deceased, and not re-married For and in consideration of Ten Dollars and Love and Affection in hand paid, convey and warrant to Pearl Fitzhugh Little, whose husband is W. H. Little, but as her sole and separate property by this gift the following described Real Estate, situated in the County of San Juan State of Washington: the following described lands . . .
+
+The Grantor, Maggie Anderson Fitzhugh, widow of Mason Fitzhugh, deceased, and not re-married For and in consideration of
+Ten Dollars and Love and Affection in hand paid, convey and warrant to Pearl Fitzhugh Little, whose husband is W. H.
+Little, but as her sole and separate property by this gift the following described Real Estate, situated in the County
+of San Juan State of Washington: the following described lands . . .
+
 (Italics ours.)
-Maggie Fitzhugh excluded an Indian burial ground on the land from the property so deeded to Pearl. Both Maggie and Pearl were members of the Lummi and Clallam Indian Tribes. On November 11, 1943, Maggie died intestate. At a subsequent Bureau of Indian Affairs probate proceeding, it was determined that Pearl, as Maggie's only child and sole heir, had also inherited the Indian burial ground.
-Pearl Little died on July 13, 1983, some 40 years after her mother. A probate proceeding was commenced in San Juan County. It was initially indicated that the appellant Squiqui claimants were her only heirs, but on January 31, 1984, the respondent Cepa claimants filed a Notice of Claim of Heirship. A trial was held to determine who would inherit Pearl Little's estate. The trial court held that the real estate at issue came to the intestate Pearl Little from her mother, Maggie Fitzhugh. The trial court also held that the ancestral estate statute (RCW 11.04.035) excluded the appellant Squiqui claimants, who were related to decedent by the half blood, from the inheritance and awarded the property to the respondent Cepa claimants. Appellants' post trial motions were denied and this appeal followed.
+
+Maggie Fitzhugh excluded an Indian burial ground on the land from the property so deeded to Pearl. Both Maggie and Pearl
+were members of the Lummi and Clallam Indian Tribes. On November 11, 1943, Maggie died intestate. At a subsequent Bureau
+of Indian Affairs probate proceeding, it was determined that Pearl, as Maggie's only child and sole heir, had also
+inherited the Indian burial ground.
+
+Pearl Little died on July 13, 1983, some 40 years after her mother. A probate proceeding was commenced in San Juan
+County. It was initially indicated that the appellant Squiqui claimants were her only heirs, but on January 31, 1984,
+the respondent Cepa claimants filed a Notice of Claim of Heirship. A trial was held to determine who would inherit Pearl
+Little's estate. The trial court held that the real estate at issue came to the intestate Pearl Little from her mother,
+Maggie Fitzhugh. The trial court also held that the ancestral estate statute (RCW 11.04.035) excluded the appellant
+Squiqui claimants, who were related to decedent by the half blood, from the inheritance and awarded the property to the
+respondent Cepa claimants. Appellants' post trial motions were denied and this appeal followed.
+
 The appellant Squiqui claimants sought and were granted direct review by this court.
-In General — Statutory treatment of ancestral estate and the half blood in intestate succession in the State of Washington.
+
+In General — Statutory treatment of ancestral estate and the half blood in intestate succession in the State of
+Washington.
+
 A brief overview of the law in this regard is helpful to an understanding of the issues before us.
-We start with the basic proposition that since the dominion of an owner over his or her property ends at the owner's death, the law must provide for the devolution of that property. If the owner has chosen to dispose of it by will, the property will pass according to the terms of the will. If there is no will, as here, the law alone, through the rules of descent and distribution, accomplishes the transfer and designates the persons who are to take.
-"It has been said that the passing of property upon intestacy is pursuant to a statutory will, which determines the property passing as well as the identity of the recipients, and which is considered to be such a distribution as the intestate presumably would have made had he made a will." (Footnotes omitted.)
-Since succession to intestate property is at the will of (and subject to the sovereign political power of) the state, the state may regulate and control such succession as it deems necessary. Thus, the Legislature may change, condition, or abrogate the law of succession, subject only to certain constitutional limitations, none of which are pertinent to this case.
-The statutes of descent and distribution in some states contain a modified form of the common law doctrine of ancestral property. These statutes recognize a difference between estates which were acquired by the intestate's own efforts and those derived from some ancestor, and provide to the effect that an estate of the latter kind shall go to those who are of the blood of the ancestor from whom the estate was derived. While these statutes vary in their phraseology and import, they all have as their basic theme the keeping of such property in the line of the blood from whence it came.
-As one commentator on the subject has observed, " [t]he conception that property should return to the side of the family from which it came is reasonable enough. On the other hand, complete abolition of the doctrine is not likely to meet with serious opposition and has the definite administrative advantage of eliminating from the intestate scheme a complex product of obscure antiquities.1' And, as this same commentator further observed, "[a] majority of the United States no longer recognize the doctrine of ancestral estate, but distribute realty and personalty without regard to the source of the intestate's title. Those states still retaining a semblance of the doctrine have modified the common law by statute." (Footnotes omitted.)
-Legislative treatment of the "ancestral" and "half-blood" restrictions in this state has gone through four separate stages.
+
+We start with the basic proposition that since the dominion of an owner over his or her property ends at the owner's
+death, the law must provide for the devolution of that property. If the owner has chosen to dispose of it by will, the
+property will pass according to the terms of the will. If there is no will, as here, the law alone, through the rules of
+descent and distribution, accomplishes the transfer and designates the persons who are to take.
+
+"It has been said that the passing of property upon intestacy is pursuant to a statutory will, which determines the
+property passing as well as the identity of the recipients, and which is considered to be such a distribution as the
+intestate presumably would have made had he made a will." (Footnotes omitted.)
+
+Since succession to intestate property is at the will of (and subject to the sovereign political power of) the state,
+the state may regulate and control such succession as it deems necessary. Thus, the Legislature may change, condition,
+or abrogate the law of succession, subject only to certain constitutional limitations, none of which are pertinent to
+this case.
+
+The statutes of descent and distribution in some states contain a modified form of the common law doctrine of ancestral
+property. These statutes recognize a difference between estates which were acquired by the intestate's own efforts and
+those derived from some ancestor, and provide to the effect that an estate of the latter kind shall go to those who are
+of the blood of the ancestor from whom the estate was derived. While these statutes vary in their phraseology and
+import, they all have as their basic theme the keeping of such property in the line of the blood from whence it came.
+
+As one commentator on the subject has observed, " [t]he conception that property should return to the side of the family
+from which it came is reasonable enough. On the other hand, complete abolition of the doctrine is not likely to meet
+with serious opposition and has the definite administrative advantage of eliminating from the intestate scheme a complex
+product of obscure antiquities.1' And, as this same commentator further observed, "[a] majority of the United States no
+longer recognize the doctrine of ancestral estate, but distribute realty and personalty without regard to the source of
+the intestate's title. Those states still retaining a semblance of the doctrine have modified the common law by
+statute." (Footnotes omitted.)
+
+Legislative treatment of the "ancestral" and "half-blood" restrictions in this state has gone through four separate
+stages.
+
 Originally, our descent and distribution statute provided as follows:
-The degrees of kindred shall be computed according to the rules of the civil law, and the kindred of the half blood shall inherit equally with those of the whole blood, in the same degree.
-Laws of 1854, § 235, p. 307. This statute simply provided that relatives of the half blood would take equally with those of the whole blood in the same degree, and without regard to whether the property was ancestral property.
+
+The degrees of kindred shall be computed according to the rules of the civil law, and the kindred of the half blood
+shall inherit equally with those of the whole blood, in the same degree.
+
+Laws of 1854, § 235, p. 307. This statute simply provided that relatives of the half blood would take equally with those
+of the whole blood in the same degree, and without regard to whether the property was ancestral property.
+
 The second version was adopted in 1945. It provided:
-The degree of kindred shall be computed according to the rules of the civil law, and the kindred of the half blood shall inherit equally with those of the whole blood in the same degree, unless the inheritance comes to the intestate by descent, devise, or gift from one of his ancestors, or kindred of such ancestor's blood, in which case all those who are not of the blood of such ancestors shall be excluded from such inheritance: . . .
-Laws of 1945, ch. 72, § 1, p. 216. This statute, as with most statutes of this type, merged a limited version of the doctrine of ancestral estate and inheritance by the half blood. As this court held in In re Estate of Kurtzman, 65 Wn.2d 260, 265, 396 P.2d 786 (1964), it was the Legislature's intent in adopting this statute, "to circumscribe the inheritance rights of only kindred of the half blood, in certain circumstances, and not to modify the method of computing kinship."
-The third version was that adopted by the 1965 Legislature as part of a comprehensive reform of the probate laws recommended by the Board of Governors of the Washington State Bar Association. This version read:
-Kindred of the half blood shall inherit the same share which they would have inherited if they had been of the whole blood.
-Laws of 1965, ch. 145, § 11.04.035, p. 1436. This then returned to the original version. According to commentators Robert A. Stewart and John Richard Steincipher (the latter being one of the drafters of the probate reform legislation), the effect of this legislative change would be to declare "inter alia that kindred of the half blood inherit the same share which they would have inherited if they had been of the whole blood, [and] the 'anachronistic doctrine' of ancestral property will have been repudiated." (Footnote omitted.) The reason for this change was not that there might not be instances where bloodline integrity of property was desirable, but that the State Bar's Probate Committee believed such reasons "to be outweighed by the resultant complications to the descent of property."
-This third version, however, never became effective. The 1965 probate reform legislation was to have become effective on July 1, 1967. The 1967 Legislature had second thoughts on the matter and amended this statute effective July 1, 1967. The resultant enactment was a somewhat different version of the 1945 statute.
+
+The degree of kindred shall be computed according to the rules of the civil law, and the kindred of the half blood shall
+inherit equally with those of the whole blood in the same degree, unless the inheritance comes to the intestate by
+descent, devise, or gift from one of his ancestors, or kindred of such ancestor's blood, in which case all those who are
+not of the blood of such ancestors shall be excluded from such inheritance: . . .
+
+Laws of 1945, ch. 72, § 1, p. 216. This statute, as with most statutes of this type, merged a limited version of the
+doctrine of ancestral estate and inheritance by the half blood. As this court held in In re Estate of Kurtzman, 65 Wn.2d
+260, 265, 396 P.2d 786 (1964), it was the Legislature's intent in adopting this statute, "to circumscribe the
+inheritance rights of only kindred of the half blood, in certain circumstances, and not to modify the method of
+computing kinship."
+
+The third version was that adopted by the 1965 Legislature as part of a comprehensive reform of the probate laws
+recommended by the Board of Governors of the Washington State Bar Association. This version read:
+
+Kindred of the half blood shall inherit the same share which they would have inherited if they had been of the whole
+blood.
+
+Laws of 1965, ch. 145, § 11.04.035, p. 1436. This then returned to the original version. According to commentators
+Robert A. Stewart and John Richard Steincipher (the latter being one of the drafters of the probate reform legislation),
+the effect of this legislative change would be to declare "inter alia that kindred of the half blood inherit the same
+share which they would have inherited if they had been of the whole blood, [and] the 'anachronistic doctrine' of
+ancestral property will have been repudiated." (Footnote omitted.) The reason for this change was not that there might
+not be instances where bloodline integrity of property was desirable, but that the State Bar's Probate Committee
+believed such reasons "to be outweighed by the resultant complications to the descent of property."
+
+This third version, however, never became effective. The 1965 probate reform legislation was to have become effective on
+July 1, 1967. The 1967 Legislature had second thoughts on the matter and amended this statute effective July 1, 1967.
+The resultant enactment was a somewhat different version of the 1945 statute.
+
 This fourth and final version, the one before us herein, reads as follows:
-Kindred of the half blood shall inherit the same share which they would have inherited if they had been of the whole blood, unless the inheritance comes to the intestate by descent, devise, or gift from one of his ancestors, or kindred of such ancestor's blood, in which case all those who are not of the blood of such ancestors shall be excluded from such inheritance; . . .
+
+Kindred of the half blood shall inherit the same share which they would have inherited if they had been of the whole
+blood, unless the inheritance comes to the intestate by descent, devise, or gift from one of his ancestors, or kindred
+of such ancestor's blood, in which case all those who are not of the blood of such ancestors shall be excluded from such
+inheritance; . . .
+
 Laws of 1967, ch. 168, § 3, p. 819.
-This fourth version (now codified as RCW 11.04.035) is much the same as the second version (the 1945 statute) but with one obvious difference: the words "in the same degree" were deleted from this latest version. It may be observed parenthetically that since the statute affects only relatives of the half blood, it follows that it only limits the inheritance rights of collateral heirs. As Steincipher informs us, this 1967 enactment had not been recommended by the State Bar's Probate Committee, but "was born of a legislative committee meeting in which the legislators' attention was directed to the 'undesirable results' that would follow unless this language of [the former statute] were reenacted." Thus, "anachronistic doctrine" or not, the Legislature knew what it wanted and enacted it, leaving the "resultant complications" to the courts to work out.
-As the foregoing chronology reflects, the State of Washington has followed the trend one commentator describes as follows: "Modern statutes governing ancestral estate merge that doctrine and inheritance by the half blood. The modified expression of the doctrine now usually operates only to exclude kindred of the half blood. The treatment of the half blood in this country is very diverse." As can be seen from the legislative history, so too has the treatment of the half blood in this state been very diverse.
-For the reasons discussed, statutes of this kind are not favored in American law. Nonetheless, as with any other statute, they must be construed to give effect to their legislative intent. And this intention must be the intention expressed in the statute itself where the meaning of the statutory language is plain.
-With full recognition then that we are not discussing the feudal or common law "ancestral estate" doctrine but a statutory version thereof, we will for convenience of nomenclature refer to our current statute as the "ancestral estate statute" and to the property covered thereby as "ancestral property".
+
+This fourth version (now codified as RCW 11.04.035) is much the same as the second version (the 1945 statute) but with
+one obvious difference: the words "in the same degree" were deleted from this latest version. It may be observed
+parenthetically that since the statute affects only relatives of the half blood, it follows that it only limits the
+inheritance rights of collateral heirs. As Steincipher informs us, this 1967 enactment had not been recommended by the
+State Bar's Probate Committee, but "was born of a legislative committee meeting in which the legislators' attention was
+directed to the 'undesirable results' that would follow unless this language of [the former statute] were reenacted."
+Thus, "anachronistic doctrine" or not, the Legislature knew what it wanted and enacted it, leaving the "resultant
+complications" to the courts to work out.
+
+As the foregoing chronology reflects, the State of Washington has followed the trend one commentator describes as
+follows: "Modern statutes governing ancestral estate merge that doctrine and inheritance by the half blood. The modified
+expression of the doctrine now usually operates only to exclude kindred of the half blood. The treatment of the half
+blood in this country is very diverse." As can be seen from the legislative history, so too has the treatment of the
+half blood in this state been very diverse.
+
+For the reasons discussed, statutes of this kind are not favored in American law. Nonetheless, as with any other
+statute, they must be construed to give effect to their legislative intent. And this intention must be the intention
+expressed in the statute itself where the meaning of the statutory language is plain.
+
+With full recognition then that we are not discussing the feudal or common law "ancestral estate" doctrine but a
+statutory version thereof, we will for convenience of nomenclature refer to our current statute as the "ancestral estate
+statute" and to the property covered thereby as "ancestral property".
+
 Three basic issues are presented.
+
 Issues
+
 Issue One. Under Washington's ancestral estate statute, which ancestor is the one whose blood is to be considered?
-Issue Two. Does the ancestral estate statute extinguish the rights of half-blood claimants to inherit even when the competing claimants are in a less preferred class of takers under the general descent and distribution statute?
-Issue Three. Did the property deeded to the intestate by her mother constitute ancestral property within the purview of the ancestral estate statute?
+
+Issue Two. Does the ancestral estate statute extinguish the rights of half-blood claimants to inherit even when the
+competing claimants are in a less preferred class of takers under the general descent and distribution statute?
+
+Issue Three. Did the property deeded to the intestate by her mother constitute ancestral property within the purview of
+the ancestral estate statute?
+
 Decision
+
 Issue One.
-Conclusion. The "ancestor" whose blood is to be considered under the ancestral estate statute (RCW 11.04.035) is the intestate's mother, Maggie Fitzhugh, from whom the real estate immediately came to the intestate, Pearl Little.
-The appellant Squiqui claimants argue that we should adopt the common law rule of "first purchaser" in construing the term "ancestor". Under that rule, the ownership of the property is traced backwards from the decedent to find the ancestor who last acquired the property by purchase; the claimant then must be of the blood of that person to inherit. Based on this, they further argue that: (1) Charles Mason Fitzhugh is the first purchaser of the property comprising Pearl Little's estate, because he acquired possession of the property for a brief time in 1924 in return for his pledge to pay off a mortgage; and (2) since appellant Squiqui claimants are of the blood of Charles, they are not excluded from inheritance by the ancestral estate statute (RCW 11.04.035).
-The common law "first purchaser" doctrine has met with disfavor in this country, and few jurisdictions have adopted it. On the other hand, "in most American jurisdictions where the source of the inheritance is material upon its descent, the ancestor whose blood is to be considered is the one from whom the property immediately came to the intestate." (Italics ours.) This is the view of the majority of the courts in this country and because it most closely comports with the language used in our ancestral estate statute, we adopt it as the law of this state.
-The reliance of the appellant Squiqui claimants on In re Estate of Knight, 57 Cal. App. 2d 1010, 136 P.2d 68 (1943) as authority for applying the first purchaser rule is misplaced. In that case, the court emphasized that it was construing a California ancestral estate statute enacted by that state's Legislature in 1850. At that early date the first purchaser rule had met with greater acceptance than was true in either 1945 or 1967, the dates our Washington ancestral estate statutes were enacted. By the middle of the present century, as the court in Knight acknowledged, the prevailing American rule had clearly swung in favor of the immediate ancestor interpretation. The historical context in which the Washington ancestral statutes were enacted is not an insignificant factor to be considered in determining the construction to be given those statutes, and suggests that the Legislature intended the immediate ancestor rule to apply in this state. It is, therefore, unnecessary to determine whether Charles Mason Fitzhugh would be considered a first purchaser or not under the facts presented. The ancestor from whom the property immediately came to the intestate, Pearl Little, was her mother, Maggie Fitzhugh; Maggie Fitzhugh, therefore, is the one whose blood is to be considered under our ancestral estate statute.
-The appellant Squiqui claimants argue, in the alternative that since the ancestral estate statute (RCW 11.04.035) requires half bloods to be "of the blood of such ancestors" (italics ours), they need only be related to any of Pearl Little's ancestors who previously owned the property comprising her estate. In this regard, they again point to their blood relationship with Charles Mason Fitzhugh, Maggie Fitzhugh's late husband. Appellants cite no supporting case law in connection with their alternative theory.
-While many ancestral estate statutes do employ the singular térm "blood of such ancestor", we conclude that the plural use "blood of such ancestors" in our ancestral estate statute does not mandate a different interpretation. For example, the Oklahoma statute also uses the plural form "ancestors", but the Supreme Court of that state interpreted it to refer only to the immediate ancestor.
-Thus, within the purview of our ancestral estate statute, the appellant Squiqui claimants are not of the blood of the ancestor from whom the decedent obtained the property.
+
+Conclusion. The "ancestor" whose blood is to be considered under the ancestral estate statute (RCW 11.04.035) is the
+intestate's mother, Maggie Fitzhugh, from whom the real estate immediately came to the intestate, Pearl Little.
+
+The appellant Squiqui claimants argue that we should adopt the common law rule of "first purchaser" in construing the
+term "ancestor". Under that rule, the ownership of the property is traced backwards from the decedent to find the
+ancestor who last acquired the property by purchase; the claimant then must be of the blood of that person to inherit.
+Based on this, they further argue that: (1) Charles Mason Fitzhugh is the first purchaser of the property comprising
+Pearl Little's estate, because he acquired possession of the property for a brief time in 1924 in return for his pledge
+to pay off a mortgage; and (2) since appellant Squiqui claimants are of the blood of Charles, they are not excluded from
+inheritance by the ancestral estate statute (RCW 11.04.035).
+
+The common law "first purchaser" doctrine has met with disfavor in this country, and few jurisdictions have adopted it.
+On the other hand, "in most American jurisdictions where the source of the inheritance is material upon its descent, the
+ancestor whose blood is to be considered is the one from whom the property immediately came to the intestate." (Italics
+ours.) This is the view of the majority of the courts in this country and because it most closely comports with the
+language used in our ancestral estate statute, we adopt it as the law of this state.
+
+The reliance of the appellant Squiqui claimants on In re Estate of Knight, 57 Cal. App. 2d 1010, 136 P.2d 68 (1943) as
+authority for applying the first purchaser rule is misplaced. In that case, the court emphasized that it was construing
+a California ancestral estate statute enacted by that state's Legislature in 1850. At that early date the first
+purchaser rule had met with greater acceptance than was true in either 1945 or 1967, the dates our Washington ancestral
+estate statutes were enacted. By the middle of the present century, as the court in Knight acknowledged, the prevailing
+American rule had clearly swung in favor of the immediate ancestor interpretation. The historical context in which the
+Washington ancestral statutes were enacted is not an insignificant factor to be considered in determining the
+construction to be given those statutes, and suggests that the Legislature intended the immediate ancestor rule to apply
+in this state. It is, therefore, unnecessary to determine whether Charles Mason Fitzhugh would be considered a first
+purchaser or not under the facts presented. The ancestor from whom the property immediately came to the intestate, Pearl
+Little, was her mother, Maggie Fitzhugh; Maggie Fitzhugh, therefore, is the one whose blood is to be considered under
+our ancestral estate statute.
+
+The appellant Squiqui claimants argue, in the alternative that since the ancestral estate statute (RCW 11.04.035)
+requires half bloods to be "of the blood of such ancestors" (italics ours), they need only be related to any of Pearl
+Little's ancestors who previously owned the property comprising her estate. In this regard, they again point to their
+blood relationship with Charles Mason Fitzhugh, Maggie Fitzhugh's late husband. Appellants cite no supporting case law
+in connection with their alternative theory.
+
+While many ancestral estate statutes do employ the singular térm "blood of such ancestor", we conclude that the plural
+use "blood of such ancestors" in our ancestral estate statute does not mandate a different interpretation. For example,
+the Oklahoma statute also uses the plural form "ancestors", but the Supreme Court of that state interpreted it to refer
+only to the immediate ancestor.
+
+Thus, within the purview of our ancestral estate statute, the appellant Squiqui claimants are not of the blood of the
+ancestor from whom the decedent obtained the property.
+
 Issue Two.
-Conclusion. Under the language of our present ancestral estate statute (RCW 11.04.035), the inheritance rights of half-blood claimants as to ancestral property are extinguished even if the competing claimants are in a less preferred class of takers under the general descent and distribution statute (RCW 11.04.015).
-It is first necessary to compare the two statutes under consideration. The general descent and distribution statute provides in pertinent part:
+
+Conclusion. Under the language of our present ancestral estate statute (RCW 11.04.035), the inheritance rights of
+half-blood claimants as to ancestral property are extinguished even if the competing claimants are in a less preferred
+class of takers under the general descent and distribution statute (RCW 11.04.015).
+
+It is first necessary to compare the two statutes under consideration. The general descent and distribution statute
+provides in pertinent part:
+
 (2) . . . the entire net estate if there is no surviving spouse, shall descend and be distributed as follows:
-(c) If the intestate not be survived by issue or by either parent, then to those issue of the parent or parents who survive the intestate; . . .
-(e) If the intestate not be survived by issue or by either parent, or by any issue of the parent or parents or by any grandparent or grandparents, then to those issue of any grandparent or grandparents who survive the intestate;
+
+(c) If the intestate not be survived by issue or by either parent, then to those issue of the parent or parents who
+survive the intestate; . . .
+
+(e) If the intestate not be survived by issue or by either parent, or by any issue of the parent or parents or by any
+grandparent or grandparents, then to those issue of any grandparent or grandparents who survive the intestate;
+
 RCW 11.04.015 (part).
-Appellant Squiqui claimants are Pearl Little's nephew, grandniece, and great grandniece. As such, they fall within subsection (2)(c) of the general descent and distribution statute, as issue of the parents. The respondent Cepa claimants, who are Pearl Little's second and third cousins, fall within subsection (2)(e) of that statute, as issue of the grandparents. Appellant Squiqui claimants argue that since they are in the more preferred class of takers under this statute, they should be awarded Pearl Little's estate. As discussed above, however, they are related to her only by the half blood.
+
+Appellant Squiqui claimants are Pearl Little's nephew, grandniece, and great grandniece. As such, they fall within
+subsection (2)(c) of the general descent and distribution statute, as issue of the parents. The respondent Cepa
+claimants, who are Pearl Little's second and third cousins, fall within subsection (2)(e) of that statute, as issue of
+the grandparents. Appellant Squiqui claimants argue that since they are in the more preferred class of takers under this
+statute, they should be awarded Pearl Little's estate. As discussed above, however, they are related to her only by the
+half blood.
+
 We again refer to our present ancestral estate statute which limits the inheritance rights of half-blood claimants:
-Kindred of the half blood shall inherit the same share which they would have inherited if they had been of the whole blood, unless the inheritance comes to the intestate by descent, devise, or gift from one of his ancestors, or kindred of such ancestor's blood, in which case all those who are not of the blood of such ancestors shall be excluded from such inheritance: . . .
-RCW 11.04.035 (part). The first clause of the ancestral estate statute makes clear that there will ordinarily be no distinction between whole blood and half-blood claimants. The second clause, however, states the exception to that general rule and provides that in those cases where the inheritance came to the intestate by descent, devise, or gift from one of his or her ancestors, then "all those" who are not of the blood of such ancestors shall be "excluded” from such inheritance. The term "all those" applies to half-blood claimants, since it refers back to "[kjindred of the half blood" as stated in the first clause.
-Appellant Squiqui claimants contend, however, that we should construe the ancestral estate statute more narrowly and hold that it does not apply to half-blood claimants who are in a more preferred class of takers than the competing claimants under the general descent and distribution statute.
-Appellant Squiqui claimants cite In re Estate of Cough-lin, 336 Mich. 279, 57 N.W.2d 884 (1953) for the proposition that half-blood relatives of the intestate who are not of the blood of the ancestor should inherit in preference to more remote kin of the intestate's blood. In Coughlin and other decisions holding to this effect, however, this result follows from the language of the particular statutes under consideration and those statutes differ from ours in one critical respect. The statutes on which such holdings are based contain language limiting the ancestral estate restriction to those situations where the half-blood claimants are "of the same degree" as the competing claimants, and while that is the language of most ancestral estate statutes, it is not the language of ours.
-Our 1945 statute was of that type, and it did apply to "kindred of the half blood ... in the same degree," as the competing claimants of the whole blood. (Italics ours.) As discussed, however, that statute was repealed and when the current ancestral estate statute was enacted the Legislature omitted the italicized language. In view of this, we prefer to base our decision on our interpretation of the language of our own statute rather than on the language of opinions construing different statutes, especially when those opinions go both ways on the issue.
-In endeavoring to ascertain the meaning of the descent and distribution statute (RCW 11.04.015) and the ancestral estate statute (RCW 11.04.035), as they relate to each other, we have recourse to established rules of statutory construction. As previously discussed, our primary objective in construing statutes is, of course, to carry out the intent of the Legislature. We will give words in a statute their plain and ordinary meaning unless a contrary intent appears. Furthermore, the ancestral estate statute is the more specific statute governing intestate succession of ancestral property and, given its plain and ordinary meaning, applies to all half-blood claimants in cases involving ancestral property. We will, therefore, give effect to tha meaning.
-Appellant Squiqui claimants argue, however, that to adopt such an interpretation defeats the Legislature's intent. They reason as follows: if the ancestral estate statute (RCW 11.04.035) can exclude them from inheriting Pearl Little's estate, respondent Cepa claimants will likewise be excluded from the inheritance under the general descent and distribution statute (RCW 11.04.015), since the literal language of the latter statute prohibits issue of grandparents of the decedent from taking if there are any "surviving" issue of parents. Inasmuch as appellant Squiqui claimants, even if disqualified from taking, would still be "surviving" issue of parents, they argue that respondent Cepa claimants also could not take the estate and, therefore, pursuant to the escheat statute (RCW 11.08.140), the property would escheat to the State for lack of takers.
-Escheats being disfavored in the law, we agree that the Legislature could not have intended that an escheat occur in this situation. This argument, however, demonstrates no more than that these two statutes cannot both be interpreted literally if escheat is to be avoided. The appellant Squiqui claimants' "solution" would be to have us interpret the wording of the ancestral estate statute to make it apply only to half-blood claimants who are in the same class of takers as the competing claimants under the general descent and distribution statute. In order to do that, we would have to write back into the present ancestral estate statute words from an earlier version of the ancestral estate statute that has been repealed; this we cannot do. Instead, the above rules of statutory interpretation require us to give preference to the more specific statute where two statutes dealing with the same subject matter are in apparent conflict. Hence, the ancestral estate statute (RCW 11.04.035) as the most specific statute must prevail. It can be given full effect only if the prerequisite of "not be survived by [preferred takers]" in the various clauses of the general descent and distribution statute above referred to (RCW 11.04.015(2)(c) and (e)) is read to mean "not be survived by eligible [preferred takers]". As those sections of the general descent and distribution statute relate to ancestral property, we so construe them.
-In sum, we conclude that the Legislature intended that half-blood claimants who are excluded from taking by the ancestral estate statute should, for purposes of the general descent and distribution statute, be treated as though they had predeceased the decedent. That is the effect of the ancestral estate statute. We note parenthetically that slayers of the decedents are so treated under other probate statutes. When so viewed, the competing Cepa claimants will thus be taking under the general descent and distribution statute since the half-blood Squiqui claimants have been disqualified from taking ancestral property by the more specific ancestral estate statute.
+
+Kindred of the half blood shall inherit the same share which they would have inherited if they had been of the whole
+blood, unless the inheritance comes to the intestate by descent, devise, or gift from one of his ancestors, or kindred
+of such ancestor's blood, in which case all those who are not of the blood of such ancestors shall be excluded from such
+inheritance: . . .
+
+RCW 11.04.035 (part). The first clause of the ancestral estate statute makes clear that there will ordinarily be no
+distinction between whole blood and half-blood claimants. The second clause, however, states the exception to that
+general rule and provides that in those cases where the inheritance came to the intestate by descent, devise, or gift
+from one of his or her ancestors, then "all those" who are not of the blood of such ancestors shall be "excluded” from
+such inheritance. The term "all those" applies to half-blood claimants, since it refers back to "[kjindred of the half
+blood" as stated in the first clause.
+
+Appellant Squiqui claimants contend, however, that we should construe the ancestral estate statute more narrowly and
+hold that it does not apply to half-blood claimants who are in a more preferred class of takers than the competing
+claimants under the general descent and distribution statute.
+
+Appellant Squiqui claimants cite In re Estate of Cough-lin, 336 Mich. 279, 57 N.W.2d 884 (1953) for the proposition that
+half-blood relatives of the intestate who are not of the blood of the ancestor should inherit in preference to more
+remote kin of the intestate's blood. In Coughlin and other decisions holding to this effect, however, this result
+follows from the language of the particular statutes under consideration and those statutes differ from ours in one
+critical respect. The statutes on which such holdings are based contain language limiting the ancestral estate
+restriction to those situations where the half-blood claimants are "of the same degree" as the competing claimants, and
+while that is the language of most ancestral estate statutes, it is not the language of ours.
+
+Our 1945 statute was of that type, and it did apply to "kindred of the half blood ... in the same degree," as the
+competing claimants of the whole blood. (Italics ours.) As discussed, however, that statute was repealed and when the
+current ancestral estate statute was enacted the Legislature omitted the italicized language. In view of this, we prefer
+to base our decision on our interpretation of the language of our own statute rather than on the language of opinions
+construing different statutes, especially when those opinions go both ways on the issue.
+
+In endeavoring to ascertain the meaning of the descent and distribution statute (RCW 11.04.015) and the ancestral estate
+statute (RCW 11.04.035), as they relate to each other, we have recourse to established rules of statutory construction.
+As previously discussed, our primary objective in construing statutes is, of course, to carry out the intent of the
+Legislature. We will give words in a statute their plain and ordinary meaning unless a contrary intent appears.
+Furthermore, the ancestral estate statute is the more specific statute governing intestate succession of ancestral
+property and, given its plain and ordinary meaning, applies to all half-blood claimants in cases involving ancestral
+property. We will, therefore, give effect to tha meaning.
+
+Appellant Squiqui claimants argue, however, that to adopt such an interpretation defeats the Legislature's intent. They
+reason as follows: if the ancestral estate statute (RCW 11.04.035) can exclude them from inheriting Pearl Little's
+estate, respondent Cepa claimants will likewise be excluded from the inheritance under the general descent and
+distribution statute (RCW 11.04.015), since the literal language of the latter statute prohibits issue of grandparents
+of the decedent from taking if there are any "surviving" issue of parents. Inasmuch as appellant Squiqui claimants, even
+if disqualified from taking, would still be "surviving" issue of parents, they argue that respondent Cepa claimants also
+could not take the estate and, therefore, pursuant to the escheat statute (RCW 11.08.140), the property would escheat to
+the State for lack of takers.
+
+Escheats being disfavored in the law, we agree that the Legislature could not have intended that an escheat occur in
+this situation. This argument, however, demonstrates no more than that these two statutes cannot both be interpreted
+literally if escheat is to be avoided. The appellant Squiqui claimants' "solution" would be to have us interpret the
+wording of the ancestral estate statute to make it apply only to half-blood claimants who are in the same class of
+takers as the competing claimants under the general descent and distribution statute. In order to do that, we would have
+to write back into the present ancestral estate statute words from an earlier version of the ancestral estate statute
+that has been repealed; this we cannot do. Instead, the above rules of statutory interpretation require us to give
+preference to the more specific statute where two statutes dealing with the same subject matter are in apparent
+conflict. Hence, the ancestral estate statute (RCW 11.04.035) as the most specific statute must prevail. It can be given
+full effect only if the prerequisite of "not be survived by [preferred takers]" in the various clauses of the general
+descent and distribution statute above referred to (RCW 11.04.015(2)(c) and (e)) is read to mean "not be survived by
+eligible [preferred takers]". As those sections of the general descent and distribution statute relate to ancestral
+property, we so construe them.
+
+In sum, we conclude that the Legislature intended that half-blood claimants who are excluded from taking by the
+ancestral estate statute should, for purposes of the general descent and distribution statute, be treated as though they
+had predeceased the decedent. That is the effect of the ancestral estate statute. We note parenthetically that slayers
+of the decedents are so treated under other probate statutes. When so viewed, the competing Cepa claimants will thus be
+taking under the general descent and distribution statute since the half-blood Squiqui claimants have been disqualified
+from taking ancestral property by the more specific ancestral estate statute.
+
 Issue Three.
-Conclusion. Whether the real property deeded to the intestate (Pearl Little) by her mother (Maggie Fitzhugh) was ancestral property within the purview of the ancestral estate statute depends on whether or not the deed conveying that property was a gift. Since the deed is ambiguous in that regard, this case must be remanded to the trial court for a fact finding hearing to determine that issue.
-By the terms of the ancestral estate statute (RCW 11.04-.035), property is considered to be ancestral property where "the inheritance comes to the intestate by descent, devise, or gift from one of his ancestors". (Italics ours.) It is undisputed that the Indian burial ground came to the intestate, Pearl Little, "by descent" as decided in the Bureau of Indian Affairs heirship proceeding (which construed Washington law) and therefore is ancestral property within the terms of the ancestral estate statute. Thus, the Indian burial ground was properly awarded to the respondent Cepa claimants.
-The question then becomes whether the recital of "consideration of Ten Dollars" in the deed to the intestate from her mother takes the deeded property out of the "gift" category for purposes of the ancestral estate statute. If it does, then the $1,167,480 parcel of real estate goes to the appellant Squiqui claimants by virtue of the descent and distribution statute (RCW 11.04.015). If it does not, then in accordance with the law as set forth above, the property is ancestral property and goes to the respondent Cepa claimants by virtue of the ancestral estate statute (RCW 11.04-.035).
-A number of uncontroverted facts indicate that the conveyance was a gift. It is not disputed that title to the subject matter, the real estate, is capable of being passed by delivery of the deed, or that the deed was delivered. There is also considerable evidence to establish the remaining gift element, donative intent, including: that the conveyance was a death bed conveyance by a mother to her only child and heir; a recital in the deed of "consideration of . . . Love and Affection"; and most importantly, the designation of the conveyance in the deed as "this gift".
-On the other hand, the deed also contains the recital that it is "For and in consideration of Ten Dollars". Such a recital raises a rebuttable presumption that the consideration expressed in the deed was in fact paid.
-The respective parties argue that the matter should be decided as a matter of law. Research discloses ancestral estate cases which go both ways on this issue. Some courts have held that the recital of any monetary consideration, even $1, takes the conveyance out of the "gift" category for purposes of an ancestral estate statute. Yet other courts hold that the mere recital of a nominal consideration does not affect the "gift" status of the conveyance. Once again, however, we believe that the issue is best resolved by recourse to our established principles of conveyancing and gift law.
-Under these principles, a court in construing a deed must give meaning to every word if reasonably possible, and carry out the real intention of the parties. That intention is to be gathered from the deed, if possible, but when necessary by resort to the circumstances surrounding the entire transaction.
-We are unable to determine as a matter of law from the deed itself whether the conveyance was a gift or whether it was given for a valuable consideration. So far as the ancestral estate statute is concerned, the deed is thus ambiguous and presents an issue of fact which must be determined by the trial court as the trier of fact. The trial court heard no testimony and made no factual determination in this regard.
-The appellant Squiqui claimants also moved for reconsideration and attached affidavits of the two witnesses to the deed showing that they had evidence to offer on this issue. Under the rather unique circumstances of this case, and since a remand is required, we hold that it was an abuse of discretion to deny that motion.
-"It is familiar law that parol testimony is admissible to show the circumstances under which a deed was made, to define technical terms, or to explain latent ambiguities." This case is remanded to the trial court for a determination of whether Maggie Fitzhugh deeded the real property to Pearl Little by way of gift, or for a valuable consideration. The essential issue on remand is thus whether there was "an intention on the part of the donor to presently give i, existence or absence of a donative intent is a factual issue to be resolved by the trier of the fact. On remand, the burden of proof on this issue will be on the Cepa claimants as the proponents of the gift theory.
-One final issue may be disposed of summarily. The "Motion to Strike Statement to Supreme Court by Mary Donnelly [Cepa] Claimant", made by the appellant Squiqui claimants in this court, is hereby granted. That statement which was filed for the first time in this court contains matters outside the record and otherwise fails to comply with the requirements of RAP 9.11. The statement is, therefore, not properly before us and has not been considered herein.
+
+Conclusion. Whether the real property deeded to the intestate (Pearl Little) by her mother (Maggie Fitzhugh) was
+ancestral property within the purview of the ancestral estate statute depends on whether or not the deed conveying that
+property was a gift. Since the deed is ambiguous in that regard, this case must be remanded to the trial court for a
+fact finding hearing to determine that issue.
+
+By the terms of the ancestral estate statute (RCW 11.04-.035), property is considered to be ancestral property where
+"the inheritance comes to the intestate by descent, devise, or gift from one of his ancestors". (Italics ours.) It is
+undisputed that the Indian burial ground came to the intestate, Pearl Little, "by descent" as decided in the Bureau of
+Indian Affairs heirship proceeding (which construed Washington law) and therefore is ancestral property within the terms
+of the ancestral estate statute. Thus, the Indian burial ground was properly awarded to the respondent Cepa claimants.
+
+The question then becomes whether the recital of "consideration of Ten Dollars" in the deed to the intestate from her
+mother takes the deeded property out of the "gift" category for purposes of the ancestral estate statute. If it does,
+then the $1,167,480 parcel of real estate goes to the appellant Squiqui claimants by virtue of the descent and
+distribution statute (RCW 11.04.015). If it does not, then in accordance with the law as set forth above, the property
+is ancestral property and goes to the respondent Cepa claimants by virtue of the ancestral estate statute (RCW
+11\.04-.035).
+
+A number of uncontroverted facts indicate that the conveyance was a gift. It is not disputed that title to the subject
+matter, the real estate, is capable of being passed by delivery of the deed, or that the deed was delivered. There is
+also considerable evidence to establish the remaining gift element, donative intent, including: that the conveyance was
+a death bed conveyance by a mother to her only child and heir; a recital in the deed of "consideration of . . . Love and
+Affection"; and most importantly, the designation of the conveyance in the deed as "this gift".
+
+On the other hand, the deed also contains the recital that it is "For and in consideration of Ten Dollars". Such a
+recital raises a rebuttable presumption that the consideration expressed in the deed was in fact paid.
+
+The respective parties argue that the matter should be decided as a matter of law. Research discloses ancestral estate
+cases which go both ways on this issue. Some courts have held that the recital of any monetary consideration, even $1,
+takes the conveyance out of the "gift" category for purposes of an ancestral estate statute. Yet other courts hold that
+the mere recital of a nominal consideration does not affect the "gift" status of the conveyance. Once again, however, we
+believe that the issue is best resolved by recourse to our established principles of conveyancing and gift law.
+
+Under these principles, a court in construing a deed must give meaning to every word if reasonably possible, and carry
+out the real intention of the parties. That intention is to be gathered from the deed, if possible, but when necessary
+by resort to the circumstances surrounding the entire transaction.
+
+We are unable to determine as a matter of law from the deed itself whether the conveyance was a gift or whether it was
+given for a valuable consideration. So far as the ancestral estate statute is concerned, the deed is thus ambiguous and
+presents an issue of fact which must be determined by the trial court as the trier of fact. The trial court heard no
+testimony and made no factual determination in this regard.
+
+The appellant Squiqui claimants also moved for reconsideration and attached affidavits of the two witnesses to the deed
+showing that they had evidence to offer on this issue. Under the rather unique circumstances of this case, and since a
+remand is required, we hold that it was an abuse of discretion to deny that motion.
+
+"It is familiar law that parol testimony is admissible to show the circumstances under which a deed was made, to define
+technical terms, or to explain latent ambiguities." This case is remanded to the trial court for a determination of
+whether Maggie Fitzhugh deeded the real property to Pearl Little by way of gift, or for a valuable consideration. The
+essential issue on remand is thus whether there was "an intention on the part of the donor to presently give i,
+existence or absence of a donative intent is a factual issue to be resolved by the trier of the fact. On remand, the
+burden of proof on this issue will be on the Cepa claimants as the proponents of the gift theory.
+
+One final issue may be disposed of summarily. The "Motion to Strike Statement to Supreme Court by Mary Donnelly [Cepa]
+Claimant", made by the appellant Squiqui claimants in this court, is hereby granted. That statement which was filed for
+the first time in this court contains matters outside the record and otherwise fails to comply with the requirements of
+RAP 9.11. The statement is, therefore, not properly before us and has not been considered herein.
+
 Reversed and remanded for further proceedings in accordance herewith. Costs will abide the result.
+
 Dolliver, C.J., and Utter, Brachtenbach, Pearson, Callow, and Durham, JJ., concur.
+
 23 Am. Jur. 2d Descent and Distribution § 1, at 756 (1983); 26A C.J.S. Descent and Distribution § 2, at 519 (1956).
+
 23 Am. Jur. 2d Descent and Distribution § 8, at 759.
+
 23 Am. Jur. 2d Descent and Distribution § 10, at 761; 26A C.J.S. Descent and Distribution § 6, at 526-29.
-26A C.J.S. Descent and Distribution § 10, at 541; In re Estate of Kurtzman, 65 Wn.2d 260, 269, 396 P.2d 786 (1964) (Hill, J., concurring).
-Comment, Statutory Treatment of Ancestral Estate and the Half Blood in Intestate Succession, 42 Yale L.J. 101, 102 (1932).
+
+26A C.J.S. Descent and Distribution § 10, at 541; In re Estate of Kurtzman, 65 Wn.2d 260, 269, 396 P.2d 786 (1964)
+(Hill, J., concurring).
+
+Comment, Statutory Treatment of Ancestral Estate and the Half Blood in Intestate Succession, 42 Yale L.J. 101, 102
+(1932).
+
 Comment, 42 Yale L.J. at 103.
+
 R. Stewart & J. Steincipher, Probate Reform in Washington, 39 Wash. L. Rev. 873, 878 (1965).
+
 39 Wash. L. Rev. at 878-79.
+
 Laws of 1965, ch. 145, § 11.99.010, p. 1562.
+
 Laws of 1967, ch. 168, § 19, p. 828.
+
 T. Atkinson, Wills ch. 2, § 8, at 50-51; § 19, at 74 (2d ed. 1953).
+
 Washington Probate Practice and Procedure, Commentary at 15 (Supp. 1971).
+
 Comment, 42 Yale L.J. at 104.
-McDonnall v. Drawz, 212 Minn. 283, 287, 3 N.W.2d 419, 141 A.L.R. 970 (1942); 26A C.J.S. Descent and Distribution § 10, at 541 (1956).
-Peoples' Org. for Wash. Energy Resources v. Utilities & Transp. Comm'n, 101 Wn.2d 425, 429-30, 679 P.2d 922 (1984); In re Estate of Kurtzman, 65 Wn.2d 260, 263, 396 P.2d 786 (1964); 23 Am. Jur. 2d Descent and Distribution § 12, at 763 (1983).
+
+McDonnall v. Drawz, 212 Minn. 283, 287, 3 N.W.2d 419, 141 A.L.R. 970 (1942); 26A C.J.S. Descent and Distribution § 10,
+at 541 (1956).
+
+Peoples' Org. for Wash. Energy Resources v. Utilities & Transp. Comm'n, 101 Wn.2d 425, 429-30, 679 P.2d 922 (1984); In
+re Estate of Kurtzman, 65 Wn.2d 260, 263, 396 P.2d 786 (1964); 23 Am. Jur. 2d Descent and Distribution § 12, at 763
+(1983).
+
 See In re Estate of Knight, 57 Cal. App. 2d 1010, 1014, 136 P.2d 68 (1943).
-See Knight, 57 Cal. App. 2d at 1016; Poisson v. Pettaway, 159 N.C. 650, 652-53, 75 S.E. 930 (1912); In re Hart, 8 Pa. 32, 37 (1848); Cupp v. Frazier’s Heirs, 239 Ark. 77, 81-83, 387 S.W.2d 328 (1965).
-Annot., Rights of Inheritance in Ancestral Property as Between Kindred of Whole and Half Blood, 141 A.L.R. 976, 982 (1942). See 23 Am. Jur. 2d Descent and Distribution § 84, at 820; 26A C.J.S. Descent and Distribution § 11, at 543; and Comment, Statutory Treatment of Ancestral Estate and the Half Blood in Intestate Succession, 42 Yale L.J. 101, 103 (1932).
-See, e.g., Gardner v. Collins, 27 U.S. (2 Pet.) 58, 94, 7 L. Ed. 347 (1829); Dale v. Connolly, 10 N.J. Misc. 407, 409, 159 A. 314 (1932); Purcell v. Sewell, 223 Ala. 73, 75, 134 So. 476 (1931); Zweigel v. Lewis, 139 Okla. 171, 174, 281 P. 787 (1929); Owen v. Shields, 87 Ind. App. 624, 627, 158 N.E. 517 (1927); Arnold v. O'Connor, 37 R.I. 557, 560, 94 A. 145 (1915); Amy v. Amy, 12 Utah 278, 335, 42 P. 1121 (1895); Wheeler v. Clutterbuck, 52 N.Y. 67, 70 (1873); Cutter v. Waddingham, 22 Mo. 206, 265 (1855).
+
+See Knight, 57 Cal. App. 2d at 1016; Poisson v. Pettaway, 159 N.C. 650, 652-53, 75 S.E. 930 (1912); In re Hart, 8 Pa.
+32, 37 (1848); Cupp v. Frazier’s Heirs, 239 Ark. 77, 81-83, 387 S.W.2d 328 (1965).
+
+Annot., Rights of Inheritance in Ancestral Property as Between Kindred of Whole and Half Blood, 141 A.L.R. 976, 982
+(1942). See 23 Am. Jur. 2d Descent and Distribution § 84, at 820; 26A C.J.S. Descent and Distribution § 11, at 543; and
+Comment, Statutory Treatment of Ancestral Estate and the Half Blood in Intestate Succession, 42 Yale L.J. 101, 103
+(1932).
+
+See, e.g., Gardner v. Collins, 27 U.S. (2 Pet.) 58, 94, 7 L. Ed. 347 (1829); Dale v. Connolly, 10 N.J. Misc. 407, 409,
+159 A. 314 (1932); Purcell v. Sewell, 223 Ala. 73, 75, 134 So. 476 (1931); Zweigel v. Lewis, 139 Okla. 171, 174, 281 P.
+787 (1929); Owen v. Shields, 87 Ind. App. 624, 627, 158 N.E. 517 (1927); Arnold v. O'Connor, 37 R.I. 557, 560, 94 A. 145
+(1915); Amy v. Amy, 12 Utah 278, 335, 42 P. 1121 (1895); Wheeler v. Clutterbuck, 52 N.Y. 67, 70 (1873); Cutter v.
+Waddingham, 22 Mo. 206, 265 (1855).
+
 Knight, 57 Cal. App. 2d at 1014-15.
+
 See Washington State Nurses Ass'n v. Board of Med. Examiners, 93 Wn.2d 117, 121, 605 P.2d 1269 (1980).
+
 See Okla. Stat. Ann. tit. 84, § 222 (West 1970).
+
 Zweigel v. Lewis, 139 Okla. 171, 174, 281 P. 787 (1929); see also Cutter v. Waddingham, 22 Mo. 206 (1855).
+
 See In re Estate of Kurtzman, 65 Wn.2d 260, 265-67, 396 P.2d 786 (1964).
-See, e.g., (holding that half-blood claimants may inherit) In re Estate of Robbs, 504 P.2d 1228 (Okla. 1972); In re Estate of Edwards, 273 N.W.2d 118 (S.D. 1978); McDonnall v. Drawz, 212 Minn. 283, 3 N.W.2d 419, 141 A.L.R. 970 (1942); In re Estate of Belshaw, 190 Cal. 278, 212 P. 13 (1923). But see (holding that half-blood claimants may not inherit) Rotenbach v. Young, 119 Misc. 267, 196 N.Y.S. 220 (1922), aff'd, 206 A.D. 775, 200 N.Y.S. 946 (1923), aff'd, 237 N.Y. 620, 143 N.E. 767 (1924); Amy v. Amy, 12 Utah 278, 42 P. 1121 (1895).
+
+See, e.g., (holding that half-blood claimants may inherit) In re Estate of Robbs, 504 P.2d 1228 (Okla. 1972); In re
+Estate of Edwards, 273 N.W.2d 118 (S.D. 1978); McDonnall v. Drawz, 212 Minn. 283, 3 N.W.2d 419, 141 A.L.R. 970 (1942);
+In re Estate of Belshaw, 190 Cal. 278, 212 P. 13 (1923). But see (holding that half-blood claimants may not inherit)
+Rotenbach v. Young, 119 Misc. 267, 196 N.Y.S. 220 (1922), aff'd, 206 A.D. 775, 200 N.Y.S. 946 (1923), aff'd, 237 N.Y.
+620, 143 N.E. 767 (1924); Amy v. Amy, 12 Utah 278, 42 P. 1121 (1895).
+
 23 Am. Jur. 2d Descent and Distribution § 92, at 827 (1983); 141 A.L.R. at 977.
+
 Laws of 1945, ch. 72, § 1, p. 216.
+
 See footnote 25, supra; see also 141 A.L.R. at 991 et seq.
+
 Hewson Constr., Inc. v. Reintree Corp., 101 Wn.2d 819, 826, 685 P.2d 1062 (1984).
-See Wark v. Washington Nat'l Guard, 87 Wn.2d 864, 867, 557 P.2d 844 (1976); McKinnon v. White, 40 Wn. App. 184, 193, 698 P.2d 94 (1985).
-27 Am. Jur. 2d Escheat § 10, at 879 (1966); see In re Estate of Smith, 179 Wash. 287, 294, 37 P.2d 588 (1934) (presumption that decedent leaves heirs capable of inheritance; state has the burden of proving otherwise).
-King Cy. v. Seattle, 70 Wn.2d 988, 991, 425 P.2d 887 (1967). See Cooper's Mobile Homes, Inc. v. Simmons, 94 Wn.2d 321, 326, 617 P.2d 415 (1980).
+
+See Wark v. Washington Nat'l Guard, 87 Wn.2d 864, 867, 557 P.2d 844 (1976); McKinnon v. White, 40 Wn. App. 184, 193, 698
+P.2d 94 (1985).
+
+27 Am. Jur. 2d Escheat § 10, at 879 (1966); see In re Estate of Smith, 179 Wash. 287, 294, 37 P.2d 588 (1934)
+(presumption that decedent leaves heirs capable of inheritance; state has the burden of proving otherwise).
+
+King Cy. v. Seattle, 70 Wn.2d 988, 991, 425 P.2d 887 (1967). See Cooper's Mobile Homes, Inc. v. Simmons, 94 Wn.2d 321,
+326, 617 P.2d 415 (1980).
+
 McKinnon v. White, supra.
+
 See RCW 11.84.020 and RCW 11.84.030.
+
 See Henderson v. Tagg, 68 Wn.2d 188, 192, 412 P.2d 112 (1966).
+
 Pacheco v. Mello, 139 Wash. 566, 578-79, 247 P. 927 (1926); Marvin v. Yates, 26 Wash. 50, 56-57, 66 P. 131 (1901).
-Albreast v. Heaton, 276 Ala. 185, 160 So. 2d 470 (1964) ($5 recited); Brown v. Whaley, 58 Ohio St. 654, 49 N.E. 479 (1898) ($1 recited).
-See, e.g., Brown v. Smith, 240 Ark. 1042, 405 S.W.2d 249 (1966); Yaden v. Moore, 233 Ky. 46, 24 S.W.2d 927 (1930); Stevens v. Wooten, 190 N.C. 378, 130 S.E. 13 (1925); Morris v. Ward, 36 N.Y. 587 (1867); In re Estate of Lynch, 220 Pa. 14, 69 A. 290 (1908). See generally Annot., Ancestral Character of Property Which Came to Intestate by Deed, 122 A.L.R. 820 (1939).
+
+Albreast v. Heaton, 276 Ala. 185, 160 So. 2d 470 (1964) ($5 recited); Brown v. Whaley, 58 Ohio St. 654, 49 N.E. 479
+(1898) ($1 recited).
+
+See, e.g., Brown v. Smith, 240 Ark. 1042, 405 S.W.2d 249 (1966); Yaden v. Moore, 233 Ky. 46, 24 S.W.2d 927 (1930);
+Stevens v. Wooten, 190 N.C. 378, 130 S.E. 13 (1925); Morris v. Ward, 36 N.Y. 587 (1867); In re Estate of Lynch, 220 Pa.
+14, 69 A. 290 (1908). See generally Annot., Ancestral Character of Property Which Came to Intestate by Deed, 122 A.L.R.
+820 (1939).
+
 Fowler v. Tarbet, 45 Wn.2d 332, 334, 274 P.2d 341 (1954).
+
 Hodgins v. State, 9 Wn. App. 486, 492, 513 P.2d 304 (1973).
+
 Hirt v. Entus, 37 Wn.2d 418, 428, 224 P.2d 620 (1950).
-Rochester v. Tulp, 54 Wn.2d 71, 74, 337 P.2d 1062 (1959). See also Pettet v. Wonders, 23 Wn. App. 795, 599 P.2d 1297 (1979).
+
+Rochester v. Tulp, 54 Wn.2d 71, 74, 337 P.2d 1062 (1959). See also Pettet v. Wonders, 23 Wn. App. 795, 599 P.2d 1297
+(1979).
+
 Brown v. Bremerton, 69 Wash. 474, 476-77, 125 P. 785 (1912).
+
 Henderson, at 192.
+
 Buckerfield's Ltd. v. B.C. Goose & Duck Farm Ltd., 9 Wn. App. 220, 224, 511 P.2d 1360 (1973).
+
 In re Estate of Gallinger, 31 Wn.2d 823, 829, 199 P.2d 575 (1948).
 
-## Dissent — Dore, J.
+## Dissent — Dore, J
 
 Dore, J.
-(dissenting) — In a scholarly opinion, the majority holds that the ancestral estate statute, RCW 11.04.035, dictates that the inheritance rights in ancestral property of the whole blood claimants prevail over those of the half-blood claimants, notwithstanding the fact that the half-blood claimants are in a preferred class of takers. I agree. Nevertheless, the majority reverses the trial court's decision to award the estate to the whole blood claimants, on the belief that the record is ambiguous as to whether the intestate, Pearl, received the property by gift or by sale. I fail to see any ambiguity, and I would affirm the trial court's order in favor of the whole blood claimants.
-The intestate received the property by deed from Maggie, her 83-year-old mother, the day before Maggie's death. Had no conveyance occurred, Pearl would have received the property by intestate succession, and the property would be subject to the ancestral estate statute. The deed stated "For and in consideration of Ten Dollars and Love and Affection . . . convey ... by this gift the following described Real Estate ..." Majority opinion, at 272. The property conveyed has a present value of over $1 million, and undoubtedly the sum of $10 did not represent a true sale price. The majority, however, believes that it cannot be determined "as a matter of law from the deed itself whether the conveyance was a gift or whether it was given for a valuable consideration. So far as the ancestral estate statute is concerned, the deed is thus ambiguous . . ." Majority opinion, at 287. I see no such ambiguity, and I agree with the trial court when it stated in open court that "I have no difficulty in stating that the deed to which we are here concerned this afternoon is definitely and unequivocally within the purview of 'gift.'" Verbatim Report of Proceedings, at 19 (Oct. 29, 1984).
-The half-blood claimants assert that the property was conveyed to the intestate in consideration of past services rendered and therefore is not a gift. The intestate had taken care of her mother (the grantor) for a number of years, and it is this consideration which the half-blood claimants believe made the deed a sale and not a gift. This is absurd.
-The half-blood claimants produce no evidence to support this claim except a few affidavits stating that, to quote one, "The transfer was not to be a 'gift' in the sense that it was gratuitous, because Maggie thought that Pearl should be compensated for having taken care of her all those years." Clerk's Papers, at 38. No writing supports the conclusion that any agreement between Maggie and Pearl existed, or that Pearl took care of her mother in order to inherit the property. It is especially instructive to note that the deed did not mention that the conveyance occurred because of Pearl's past services rendered to Maggie, and that Pearl would have received the property regardless of the deed by intestate succession.
-To hold under the facts before us that this conveyance was anything but a gift therefore defies common sense. Of course it is possible, and likely certain, that Maggie deeded the property to her daughter in part because her daughter was, and remained, a dutiful and loving child. To view this affection and care as consideration for the property disputed, however, absent any evidence of agreement between the parties, is degrading to the parties involved.
+
+(dissenting) — In a scholarly opinion, the majority holds that the ancestral estate statute, RCW 11.04.035, dictates
+that the inheritance rights in ancestral property of the whole blood claimants prevail over those of the half-blood
+claimants, notwithstanding the fact that the half-blood claimants are in a preferred class of takers. I agree.
+Nevertheless, the majority reverses the trial court's decision to award the estate to the whole blood claimants, on the
+belief that the record is ambiguous as to whether the intestate, Pearl, received the property by gift or by sale. I fail
+to see any ambiguity, and I would affirm the trial court's order in favor of the whole blood claimants.
+
+The intestate received the property by deed from Maggie, her 83-year-old mother, the day before Maggie's death. Had no
+conveyance occurred, Pearl would have received the property by intestate succession, and the property would be subject
+to the ancestral estate statute. The deed stated "For and in consideration of Ten Dollars and Love and Affection . . .
+convey ... by this gift the following described Real Estate ..." Majority opinion, at 272. The property conveyed has a
+present value of over $1 million, and undoubtedly the sum of $10 did not represent a true sale price. The majority,
+however, believes that it cannot be determined "as a matter of law from the deed itself whether the conveyance was a
+gift or whether it was given for a valuable consideration. So far as the ancestral estate statute is concerned, the deed
+is thus ambiguous . . ." Majority opinion, at 287. I see no such ambiguity, and I agree with the trial court when it
+stated in open court that "I have no difficulty in stating that the deed to which we are here concerned this afternoon
+is definitely and unequivocally within the purview of 'gift.'" Verbatim Report of Proceedings, at 19 (Oct. 29, 1984).
+
+The half-blood claimants assert that the property was conveyed to the intestate in consideration of past services
+rendered and therefore is not a gift. The intestate had taken care of her mother (the grantor) for a number of years,
+and it is this consideration which the half-blood claimants believe made the deed a sale and not a gift. This is absurd.
+
+The half-blood claimants produce no evidence to support this claim except a few affidavits stating that, to quote one,
+"The transfer was not to be a 'gift' in the sense that it was gratuitous, because Maggie thought that Pearl should be
+compensated for having taken care of her all those years." Clerk's Papers, at 38. No writing supports the conclusion
+that any agreement between Maggie and Pearl existed, or that Pearl took care of her mother in order to inherit the
+property. It is especially instructive to note that the deed did not mention that the conveyance occurred because of
+Pearl's past services rendered to Maggie, and that Pearl would have received the property regardless of the deed by
+intestate succession.
+
+To hold under the facts before us that this conveyance was anything but a gift therefore defies common sense. Of course
+it is possible, and likely certain, that Maggie deeded the property to her daughter in part because her daughter was,
+and remained, a dutiful and loving child. To view this affection and care as consideration for the property disputed,
+however, absent any evidence of agreement between the parties, is degrading to the parties involved.
+
 Conclusion
-I therefore disagree with the majority when it holds that it is "unable to determine as a matter of law from the deed itself whether the conveyance was a gift or whether it was given for a valuable consideration." Majority opinion, at 287. I would affirm the trial court's order, as the deed to Pearl was clearly a gift and the property therefore should pass to the whole blood claimants under the ancestral estate statute.
+
+I therefore disagree with the majority when it holds that it is "unable to determine as a matter of law from the deed
+itself whether the conveyance was a gift or whether it was given for a valuable consideration." Majority opinion, at
+287\. I would affirm the trial court's order, as the deed to Pearl was clearly a gift and the property therefore should
+pass to the whole blood claimants under the ancestral estate statute.
+
 Goodloe, J., concurs with Dore, J.

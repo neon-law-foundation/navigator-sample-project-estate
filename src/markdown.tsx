@@ -17,6 +17,14 @@ import type { ReactNode } from 'react'
  * construct this does not implement renders as literal characters rather than
  * being interpreted. For court prose that is the safer failure — a stray
  * underscore in a citation should not become emphasis.
+ *
+ * Two shapes here exist because `navigator validate` holds the generated files to
+ * 120 columns. Court paragraphs are wrapped, so consecutive lines are joined back
+ * into one paragraph rather than each becoming its own; and `convert.py` escapes
+ * what wrapping turns into accidental Markdown — an `at *5` citation, a statute
+ * number that lands at the start of a line — so the escapes are undone on the way
+ * out. Both are the inverse of something that script does, and neither is a step
+ * toward being a Markdown implementation.
  */
 export function Markdown({ source }: { source: string }): ReactNode {
   return <>{blocks(source.split('\n'))}</>
@@ -65,7 +73,7 @@ function blocks(lines: string[]): ReactNode[] {
       }
       out.push(
         <blockquote key={`quote-${index}`}>
-          {quoted.map((text, offset) => (
+          {paragraphs(quoted).map((text, offset) => (
             <p key={offset}>{inline(text)}</p>
           ))}
         </blockquote>,
@@ -73,8 +81,42 @@ function blocks(lines: string[]): ReactNode[] {
       continue
     }
 
-    out.push(<p key={index}>{inline(line)}</p>)
-    index += 1
+    const paragraph: string[] = []
+    while (index < lines.length) {
+      const next = lines[index] ?? ''
+      const construct =
+        next.startsWith('# ') || next.startsWith('## ') || next.startsWith('|') || next.startsWith('>')
+      if (!next.trim() || construct) {
+        break
+      }
+      paragraph.push(next.trim())
+      index += 1
+    }
+    out.push(<p key={index}>{inline(paragraph.join(' '))}</p>)
+  }
+
+  return out
+}
+
+/**
+ * Wrapped lines, rejoined into the paragraphs they were before wrapping.
+ *
+ * A blank line — inside a blockquote, a `>` with nothing after it — is the break.
+ */
+function paragraphs(lines: string[]): string[] {
+  const out: string[] = []
+  let current: string[] = []
+
+  for (const line of lines) {
+    if (line.trim()) {
+      current.push(line.trim())
+    } else if (current.length) {
+      out.push(current.join(' '))
+      current = []
+    }
+  }
+  if (current.length) {
+    out.push(current.join(' '))
   }
 
   return out
@@ -115,15 +157,34 @@ function Grid({ rows }: { rows: string[] }) {
   )
 }
 
-/** `**strong**` and `` `code` ``, which is the whole of the inline vocabulary. */
+/** `**strong**`, `` `code` ``, and `<https://…>`: the whole of the inline vocabulary. */
 function inline(text: string): ReactNode[] {
-  return text.split(/(\*\*[^*]+\*\*|`[^`]+`)/g).map((part, index) => {
+  return text.split(/(\*\*[^*]+\*\*|`[^`]+`|<https?:\/\/[^>\s]+>)/g).map((part, index) => {
     if (part.startsWith('**') && part.endsWith('**') && part.length > 4) {
-      return <strong key={index}>{part.slice(2, -2)}</strong>
+      return <strong key={index}>{unescape(part.slice(2, -2))}</strong>
     }
     if (part.startsWith('`') && part.endsWith('`') && part.length > 2) {
       return <code key={index}>{part.slice(1, -1)}</code>
     }
-    return <span key={index}>{part}</span>
+    if (part.startsWith('<http') && part.endsWith('>')) {
+      const href = part.slice(1, -1)
+      return (
+        <a key={index} href={href} rel="noreferrer">
+          {href}
+        </a>
+      )
+    }
+    return <span key={index}>{unescape(part)}</span>
   })
+}
+
+/**
+ * Undo the backslash escapes `convert.py` writes.
+ *
+ * It escapes what court text produces by accident once it is wrapped — the `*5` of
+ * a LEXIS citation, the `11.` of a statute number that lands at a line's start —
+ * and a reader should see the character, not the backslash in front of it.
+ */
+function unescape(text: string): string {
+  return text.replace(/\\([\\*_`[\]()#+\-.!>])/g, '$1')
 }
