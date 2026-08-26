@@ -1,0 +1,35 @@
+# navigator.yaml — the one file in which this repository names itself.
+#
+# `host` is the Navigator deployment that serves this Project. It is the whole
+# of the publish destination: `.github/navigator.py` maps it to that
+# deployment's private applications bucket, so nothing else in this repository
+# names a bucket and no repository variable can point a portal somewhere else.
+#
+# `project` is the Project code. It is the mount Navigator serves the portal at,
+# `/app/projects/<project>/portal/`, and the prefix the bundle is uploaded
+# under, `<project>/portal/`. `vite.config.ts` builds against it and the gate
+# checks the built `index.html` against it.
+
+host: staging.neonlaw.com
+project: sample-estate
+
+# Off-origin strings the built bundle may name, each with the reason it is not a
+# request. Keys are full URLs; `navigator.py` splits a map entry on the first
+# `: `, as YAML does, so the scheme stays part of the key.
+allowed_prefixes:
+  # The AGPL source pointer, inside the preserved `/*!` banner on every emitted
+  # chunk and stylesheet. The licence requires the notice be kept and the engine
+  # never evaluates a comment. Stripping it to satisfy the gate would be removing
+  # a licence notice, which is the one edit here that would actually be wrong.
+  https://github.com/neon-law-foundation/: AGPL source pointer in a comment banner
+  # Inside the quoted text of `In re Estate of Borghi`, bundled from
+  # `research/opinions/`. The court wrote this footnote — "available at
+  # <http://…> (last visited Oct. 29, 2009)" — and the Markdown renderer turns
+  # the angle-bracket form into an anchor, which is why it reaches the bundle as
+  # a link rather than as prose. Editing a URL out of a quoted opinion would
+  # alter the quotation, and an accurate quote is not negotiable here.
+  #
+  # This entry does not generalise: every opinion added under `research/` may
+  # carry its own footnote URLs, and answering each with a new allowlist line
+  # scales badly and dulls the gate. Filed separately.
+  http://www.courts.wa.gov/: URL inside quoted judicial text — an autolink in a quotation
