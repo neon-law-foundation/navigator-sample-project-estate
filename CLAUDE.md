@@ -22,7 +22,7 @@ If a task seems to require something outside this repository, say so and stop ra
 ## What this is
 
 A Navigator **project application**: the client portal for the fixture matter *Estate of Cornelius Montgomery*. Vite,
-React 19, and [Navigator UX](https://github.com/neon-law-foundation/navigator-ux) for every component and every color.
+React 19, and [Navigator UX](https://github.com/neon-law-source-code/navigator-ux) for every component and every color.
 
 **All of it is fixture data.** Nobody named in `src/matter.ts` exists. Real client material must never be added here —
 see `README.md`.
@@ -72,7 +72,7 @@ Nothing in `research/opinions/` is edited by hand. `src/research.ts` is the inde
 only thing that reads them is the Navigator CLI:
 
 ```bash
-brew install neon-law-foundation/navigator/navigator   # macOS, and tap-qualified on purpose
+brew install neon-law-source-code/navigator/navigator   # macOS, and tap-qualified on purpose
 pnpm validate                                          # navigator validate, over the whole tree
 ```
 
