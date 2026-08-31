@@ -1,23 +1,7 @@
 # Working in this repository
 
-## Stay inside this folder
-
-**Read and write only what is inside this repository.** Everything you need is here.
-
-Do not open, search, copy from, or write to files elsewhere on this machine — not other matters, not sibling checkouts,
-not the home directory. Other folders on this system hold real client matters; this one holds a fixture. Reaching
-outside is how the two get mixed, and a public sample repository is the worst possible place for that to happen.
-
-Concretely:
-
-- No `~/…`, no `../` above the repository root, no absolute paths outside it.
-- Do not consult another project for a convention. If a convention is not visible here, ask, or decide it here and write
-  it down.
-- Installing dependencies and fetching public sources (a package registry, a published release, public case law) is
-  fine. Reading another project on this machine is not.
-- Temporary files go to the session scratchpad, never to a neighbouring folder.
-
-If a task seems to require something outside this repository, say so and stop rather than going to find it.
+The `stay-in-repo` skill under `.claude/skills/` — synced into this checkout by `navigator projects repository
+sync-skills` — is the scope rule to read before reaching outside this tree.
 
 ## What this is
 
