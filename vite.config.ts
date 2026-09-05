@@ -31,7 +31,7 @@ const LICENSE_BANNER = `/*!
  * Copyright (C) 2026 Neon Law Foundation.
  * SPDX-License-Identifier: AGPL-3.0-only
  *
- * Source: https://github.com/neon-law-foundation/navigator-sample-project-estate
+ * Source: https://github.com/neon-law-staging/sample-estate
  */`
 
 /**

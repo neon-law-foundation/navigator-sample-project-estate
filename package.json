@@ -21,7 +21,7 @@
     "check": "pnpm lint && pnpm typecheck && pnpm build && pnpm test"
   },
   "dependencies": {
-    "@neon-law-foundation/navigator-ux": "https://github.com/neon-law-foundation/navigator-ux/releases/download/v0.8.0/navigator-ux-v0.8.0.tgz",
+    "@neon-law-source-code/navigator-ux": "https://github.com/neon-law-source-code/navigator-ux/releases/download/v26.9.4/navigator-ux-v26.9.4.tgz",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neon-law-foundation/navigator-sample-project-estate.git"
+    "url": "git+https://github.com/neon-law-staging/sample-estate.git"
   },
   "author": "Neon Law Foundation"
 }

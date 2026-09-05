@@ -16,7 +16,7 @@ import {
   Panel,
   Shell,
   Stack,
-} from '@neon-law-foundation/navigator-ux'
+} from '@neon-law-source-code/navigator-ux'
 
 import {
   BENEFICIARIES,
