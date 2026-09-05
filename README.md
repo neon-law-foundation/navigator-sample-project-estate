@@ -1,14 +1,14 @@
 # Navigator Sample Project — Estate
 
-A **project application** for [Navigator](https://github.com/neon-law-foundation/navigator): the client portal for the
-fixture matter *Estate of Cornelius Montgomery*. [Navigator UX](https://github.com/neon-law-foundation/navigator-ux)
+A **project application** for [Navigator](https://github.com/neon-law-source-code/navigator): the client portal for the
+fixture matter *Estate of Cornelius Montgomery*. [Navigator UX](https://github.com/neon-law-source-code/navigator-ux)
 supplies every component and every color; Vite and React 19 do the rest.
 
 It exists so that "attach a React application to a matter" has a worked example a contributor can read, clone, and copy
 — and so Navigator's own local development loop has something real to build and serve. It is one of three, each a
-different shape of legal work: [litigation](https://github.com/neon-law-foundation/navigator-sample-project-litigation),
-[transactional](https://github.com/neon-law-foundation/navigator-sample-project-transactional), and
-[estate](https://github.com/neon-law-foundation/navigator-sample-project-estate).
+different shape of legal work: [litigation](https://github.com/neon-law-staging/sample-litigation),
+[transactional](https://github.com/neon-law-staging/sample-transactional), and
+[estate](https://github.com/neon-law-staging/sample-estate).
 
 **Everything here is fixture data.** *Estate of Cornelius Montgomery* is a simulated matter, and nobody named in this
 repository is a real person. No client data belongs in a public repository, ever.
